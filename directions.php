@@ -19,7 +19,7 @@ include("header.inc");
         
 <h2>Map</h2>
 
-<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=albany+rowing+center&amp;oe=utf-8&amp;client=firefox-a&amp;ie=UTF8&amp;hl=en&amp;t=h&amp;cid=8539449587296303085&amp;ll=42.66363,-73.750706&amp;spn=0.030295,0.054932&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?q=albany+rowing+center&amp;oe=utf-8&amp;client=firefox-a&amp;ie=UTF8&amp;hl=en&amp;t=h&amp;cid=8539449587296303085&amp;ll=42.66363,-73.750706&amp;spn=0.030295,0.054932&amp;z=14&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?daddr=Albany+Rowing+Center+%4042.656892,-73.741699&amp;geocode=&amp;dirflg=&amp;saddr=Albany,+ny&amp;hl=en&amp;dq=albany+rowing+center&amp;ie=UTF8&amp;t=h&amp;msa=0&amp;msid=112436428230627761706.00046bcdf718b4083d46b&amp;ll=42.658533,-73.743989&amp;spn=0.007574,0.013733&amp;z=16&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?daddr=Albany+Rowing+Center+%4042.656892,-73.741699&amp;geocode=&amp;dirflg=&amp;saddr=Albany,+ny&amp;hl=en&amp;dq=albany+rowing+center&amp;ie=UTF8&amp;t=h&amp;msa=0&amp;msid=112436428230627761706.00046bcdf718b4083d46b&amp;ll=42.658533,-73.743989&amp;spn=0.007574,0.013733&amp;z=16&amp;source=embed" style="color:#0000FF;text-align:left">Albany Rowing Center</a> in a larger map</small>
 
 </div>
 <? include("footer.inc"); ?>
