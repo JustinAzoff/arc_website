@@ -1,12 +1,19 @@
+#main
+{
+}
+
+
+/*nav stuff */
 #navcontainer
 {
 width: 12em;
 border-right: 1px solid #000;
-padding: 0px;
 margin-bottom: 1em;
+margin: 1em 3em 1.4em 0em;
 font-family: Verdana, Lucida, Geneva, Helvetica, Arial, sans-serif;
 background-color: #90bade;
 color: #333;
+float: left;
 }
 
 #navcontainer ul
@@ -27,19 +34,19 @@ margin: 0;
 {
 display: block;
 padding: 6px .5em 6px .5em;
-border-left: .7em solid #1958b7;
-border-right: .7em solid #508fc4;
-background-color: #2175bc;
-color: #fff;
+border-left: .7em solid #c87800;
+border-right: .7em solid #feaf38;
+background-color: #fe9900;
+color: #000;
 text-decoration: none;
 width: 9.6em;
 }
 
 #navcontainer li a:hover
 {
-border-left-color: #1c64d1;
-border-right-color: #5ba3e0;
-background-color: #2586d7;
+/* border-left-color: #1c64d1;
+border-right-color: #5ba3e0; */
+background-color: #fe9900;
 color: #fff;
 }
 
@@ -53,7 +60,7 @@ margin: 0;
 #navcontainer li li a
 {
 padding: 4px .5em 4px 1.3em;
-background-color: #5ba3e0;
+background-color: #e58a00;
 width: 8.8em;
 }
 
