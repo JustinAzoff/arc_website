@@ -7,9 +7,9 @@
 </head>
 <body>
 
-<center>
+<div id="header">
 <img src="logo_cropped.jpg" alt="Albany Rowing Center, Albany New York" />
-</center>
+</div>
 
 <div id="navcontainer">
 <ul>

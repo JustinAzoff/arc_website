@@ -1,5 +1,11 @@
+#header
+{
+text-align: center;
+}
+
 #main
 {
+margin-left: 240px;
 }
 
 
@@ -14,6 +20,7 @@ font-family: Verdana, Lucida, Geneva, Helvetica, Arial, sans-serif;
 background-color: #90bade;
 color: #333;
 float: left;
+height:100%;
 }
 
 #navcontainer ul
