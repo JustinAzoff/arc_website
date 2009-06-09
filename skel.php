@@ -1,10 +1,10 @@
 
 <? 
-$title = "Visiting and Collegiate";
+$title = "Title go here";
 include("header.inc");
 ?>
 <div id="main">
-<h1> Programs and Camps: Visiting and Collegiate Rowers </h1>
+<h1> <?= $title ?>
 
 </div>
 <? include("footer.inc"); ?>
