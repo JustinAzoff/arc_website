@@ -26,10 +26,10 @@ wide range of rowing abilities (from novice to experienced).
 adults of all ages.</p>
 
 <ul>
-  <li><a href="/html/competitive.html">Competitive</a> </li>
+  <li><a href="adult_competitive.php">Competitive</a> </li>
   <li><a href="/html/coached_intermediate.html">Coached / Intermediate</a> </li>
   <li><a href="/html/recreational.html">Recreational</a> </li>
-  <li><a href="/html/visiting_rowers.html">Visiting Rowers</a> </li>
+  <li><a href="visiting_and_collegiate.php">Visiting Rowers</a> </li>
 </ul>
 
 </td>
@@ -55,7 +55,7 @@ develop competitively.</p>
 adults.</p>
 
 <ul>
-    <li><a href="/html/adults.html">Adults</a></li>
+    <li><a href="adult_learn_to_row.php">Adults</a></li>
     <li><a href="/html/summer_programs.html">Juniors</a></li>
     <li><a href="/html/national_learn_to_row_day.html">National Learn to Row Day</a></li>
 </ul>

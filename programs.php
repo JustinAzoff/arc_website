@@ -9,10 +9,10 @@ include("header.inc");
 <p> We offer competitive, intermediate, and recreational programs for
 adults of all ages.</p>
 <ul>
-  <li><a href="/html/competitive.html">Competitive</a> </li>
+  <li><a href="adult_competitive.php">Competitive</a> </li>
   <li><a href="/html/coached_intermediate.html">Coached / Intermediate</a> </li>
   <li><a href="/html/recreational.html">Recreational</a> </li>
-  <li><a href="/html/visiting_rowers.html">Visiting Rowers</a> </li>
+  <li><a href="visiting_and_collegiate.php">Visiting and Collegiate Rowers</a> </li>
 </ul>
 
 <h2> Juniors </h2>
@@ -31,7 +31,7 @@ develop competitively.</p>
 adults.</p>
 
 <ul>
-    <li><a href="/html/adults.html">Adults</a></li>
+    <li><a href="adult_learn_to_row.php">Adults</a></li>
     <li><a href="/html/summer_programs.html">Juniors</a></li>
     <li><a href="/html/national_learn_to_row_day.html">National Learn to Row Day</a></li>
 </ul>
