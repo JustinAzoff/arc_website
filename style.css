@@ -5,14 +5,14 @@ text-align: center;
 
 #main
 {
-margin-left: 240px;
+margin-left: 15em;
 }
 
 
 /*nav stuff */
 #navcontainer
 {
-width: 12em;
+width: 13em;
 border-right: 1px solid #000;
 margin-bottom: 1em;
 margin: 1em 3em 1.4em 0em;
@@ -46,7 +46,7 @@ border-right: .7em solid #feaf38;
 background-color: #fe9900;
 color: #000;
 text-decoration: none;
-width: 9.6em;
+width: 10.6em;
 }
 
 #navcontainer li a:hover
