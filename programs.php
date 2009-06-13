@@ -11,7 +11,7 @@ adults of all ages.</p>
 <ul>
   <li><a href="adult_competitive.php">Competitive</a> </li>
   <li><a href="adult_coached_intermediate.php">Coached / Intermediate</a> </li>
-  <li><a href="/html/recreational.html">Recreational</a> </li>
+  <li><a href="adult_recreational.php">Recreational</a> </li>
   <li><a href="visiting_and_collegiate.php">Visiting and Collegiate Rowers</a> </li>
 </ul>
 
