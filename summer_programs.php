@@ -16,7 +16,7 @@ time is spent on the water, there is also dry land training and education about
 boats and equipment.
 </p>
 
-<h1> Swim Test </h1>
+<h2> Swim Test </h2>
 
 <p>
 The swim test can be taken at ANY POOL where a lifeguard is present.  We do not
@@ -27,7 +27,7 @@ bring it to your first day of class. You may not be boated without the swim
 test.
 </p>
 
-<h1> Requirements </h1>
+<h2> Requirements </h2>
 
 <ul>
     <li> Completed registration packet </li>
@@ -37,14 +37,14 @@ test.
     <li> 6th grade or older </li>
 </ul>
 
-<h1> What to Bring... </h1>
+<h2> What to Bring... </h2>
 <ul> 
     <li> Sunscreen </li>
     <li> Refillable water bottle </li>
     <li> Change of clothing (sneakers, socks, and snacks are all necessary items to bring) </li>
 </ul>
 
-<h1> Schedule and Time </h1>
+<h2> Schedule and Time </h2>
 <p>
 Camp Time is 9 am – 11:30 am, Monday through Friday 
 </p>
@@ -55,12 +55,12 @@ Camp Time is 9 am – 11:30 am, Monday through Friday
     <li> Session 3 - July 27th - August 7th </li>
 </ul>
 
-<h1> Fees </h1>
+<h2> Fees </h2>
 <p>
 $195 per session.  (There is a discount for a child in more than one session: $370 for 2 and $520 for all 3)
 </p>
 
-<h1> Registration </h1>
+<h2> Registration </h2>
 
 <p>
 Registration for 2009 Junior Learn to Row at Albany Rowing Center is simple.
