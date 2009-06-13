@@ -57,7 +57,6 @@ Regatta Fee: $175 (if racing)
 <ul>
 
     <li> <a href="/docs/2009_ARC_Adult_Membership_Form.pdf">Adult Membership Form (PDF)</a> </li>
-    <li> Health Questionaire (PDF) </li>
     <li> <a href="/docs/2009_USRA_Waiver.pdf">US Rowing Waiver (PDF)</a>  </li>
 </ul>
  
