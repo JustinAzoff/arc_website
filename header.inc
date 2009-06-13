@@ -4,6 +4,8 @@
 <title> Albany Rowing Center <?= $title ? "-" : ""?> <?= $title ?> </title>
 
 <link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="print.css" />
+
 </head>
 <body>
 

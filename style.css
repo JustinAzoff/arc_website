@@ -6,7 +6,12 @@ text-align: center;
 #main
 {
 margin-left: 16em;
-margin-right: 16em;
+/*margin-right: 16em; */
+}
+
+p
+{
+text-align: justify;
 }
 
 
