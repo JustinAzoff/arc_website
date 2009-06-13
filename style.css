@@ -45,7 +45,7 @@ border: none;
 
 #navcontainer li
 {
-border-bottom: 1px solid #90bade;
+border-bottom: 1px solid black;
 margin: 0;
 }
 
@@ -61,6 +61,11 @@ text-decoration: none;
 width: 10.6em;
 }
 
+#navcontainer li a.active
+{
+background-color: #62d4f5;
+}
+
 #navcontainer li a:hover
 {
 /* border-left-color: #1c64d1;
@@ -71,7 +76,7 @@ color: #fff;
 
 #navcontainer li li
 {
-border-top: 1px solid #90bade;
+border-top: 1px solid black;
 border-bottom: 0;
 margin: 0;
 }

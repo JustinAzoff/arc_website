@@ -15,17 +15,28 @@
 
 <div id="navcontainer">
 <ul>
-<li> <a href="/">Home</a> </li>
-<li> <a href="about.php">About</a> </li>
-<li> <a href="programs.php">Programs &amp; Camps</a>
+<li> <? header_link("/", "Home") ?> </li>
+<li> <? header_link("about.php", "About") ?> </li>
+<li> <? header_link("programs.php", "Programs &amp; Camps") ?>
 <ul>
-    <li> <a href="adult_programs.php">Adult Programs</a> </li>
-    <li> <a href="junior_programs.php">Junior Programs</a> </li>
-    <li> <a href="learn_to_row.php">Learn to Row</a> </li>
+    <li> <? header_link("adult_programs.php", "Adult Programs") ?> </li>
+    <li> <? header_link("junior_programs.php", "Junior Programs") ?> </li>
+    <li> <? header_link("learn_to_row.php", "Learn to Row") ?> </li>
 </ul>
 </li>
-<li> <a href="dates.php">Schedule &amp; Results</a> </li>
-<li> <a href="docs.php">Forms &amp; Documents</a> </li>
-<li> <a href="contact.php">Contact Us</a> </li>
+<li> <? header_link("dates.php", "Schedule &amp; Results") ?> </li>
+<li> <? header_link("docs.php", "Forms &amp; Documents") ?> </li>
+<li> <? header_link("contact.php", "Contact Us") ?> </li>
 </ul>
 </div>
+
+<?
+function header_link($href, $txt){
+    if (basename($_SERVER["REQUEST_URI"]) == $href){
+        $active = 'class="active"';
+    } else {
+        $active = "";
+    }
+    printf('<a href="%s" %s> %s </a>', $href, $active, $txt);
+}
+?>
