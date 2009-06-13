@@ -15,6 +15,11 @@ p
 text-align: justify;
 }
 
+dt {
+    font-weight: bold;
+}
+
+
 
 /*nav stuff */
 #navcontainer
