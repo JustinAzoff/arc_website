@@ -46,7 +46,7 @@ test.
 
 <h2> Schedule and Time </h2>
 <p>
-Camp Time is 9 am – 11:30 am, Monday through Friday 
+Camp Time is 9 am - 11:30 am, Monday through Friday 
 </p>
 
 <ul>
