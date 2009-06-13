@@ -17,7 +17,7 @@ wide range of rowing abilities (from novice to experienced).
 </p>
 
 <h2>Rowing Programs and Camps</h2>
-<table border="0">
+<table border="0" cellspacing="10" cellpadding="5">
 <tr>
 <td valign="top">
 <img src="/assets/images/adults.gif" alt="Adults"/>
