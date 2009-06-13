@@ -64,7 +64,8 @@ $195 per session.  (There is a discount for a child in more than one session: $3
 
 <p>
 Registration for 2009 Junior Learn to Row at Albany Rowing Center is simple.
-Please complete the 2009 Junior Learn to Row Reqistration and mail to:
+Please complete the <a href="/docs/2009_Junior_Camp_Reg.pdf">2009 Junior Learn to Row Reqistration</a> and mail to: </span></p>
+
 
 <pre>
 Organization of Adirondack Rowers and Scullers
