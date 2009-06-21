@@ -5,6 +5,7 @@ display: none;
 
 #main
 {
-margin-left: 0em;
+margin-left: none;
+max-width: none;
 }
 
