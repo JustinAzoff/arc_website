@@ -5,7 +5,7 @@ text-align: center;
 
 #main
 {
-margin-left: 16em;
+float: left;
 /*margin-right: 16em; */
 max-width:40em;
 }
@@ -27,8 +27,9 @@ dt {
 width: 13em;
 border-right: 1px solid #000;
 margin-bottom: 1em;
-margin: 1em 3em 1.4em 0em;
+margin: 2em 3em 1.4em 0em;
 font-family: Verdana, Lucida, Geneva, Helvetica, Arial, sans-serif;
+font-size: smaller;
 background-color: #90bade;
 color: #333;
 float: left;
