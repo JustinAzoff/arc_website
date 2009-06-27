@@ -7,7 +7,8 @@ text-align: center;
 {
 float: left;
 /*margin-right: 16em; */
-max-width:40em;
+max-width: 40em;
+min-width: 20em;
 }
 
 p
@@ -27,7 +28,7 @@ dt {
 width: 13em;
 border-right: 1px solid #000;
 margin-bottom: 1em;
-margin: 2em 3em 1.4em 0em;
+margin: 2em 2em 1.4em 0em;
 font-family: Verdana, Lucida, Geneva, Helvetica, Arial, sans-serif;
 font-size: smaller;
 background-color: #90bade;
@@ -98,4 +99,16 @@ width: 9.8em;
 padding: 3px .5em 3px 1.9em;
 background-color: #73b2e8;
 width: 9.2em;
+}
+
+
+/* for screen readers and cell phones */
+.hidden
+{
+position:absolute;
+left:-10000px;
+top:auto;
+width:1px;
+height:1px;
+overflow:hidden;
 }

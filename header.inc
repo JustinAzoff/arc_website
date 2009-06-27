@@ -9,6 +9,10 @@
 </head>
 <body>
 
+<p class="hidden">
+<a href="#content">Jump to main content</a>
+</p>
+
 <div id="header">
 <img src="logo_cropped.jpg" alt="Albany Rowing Center, Albany New York" />
 </div>
@@ -29,7 +33,7 @@
 <li> <? header_link("contact.php", "Contact Us") ?> </li>
 </ul>
 </div>
-
+<a name="content"/>
 <?
 function header_link($href, $txt){
     if (basename($_SERVER["REQUEST_URI"]) == $href){
