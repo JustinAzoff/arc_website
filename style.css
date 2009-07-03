@@ -1,15 +1,17 @@
 #header
 {
 text-align: center;
+max-width: 55em;
 }
 
 #main
 {
-float: left;
-/*margin-right: 16em; */
-max-width: 40em;
+/* float: left; */
+margin-left: 14em;
 min-width: 20em;
+max-width: 40em;
 }
+
 
 p
 {
@@ -112,4 +114,13 @@ top:auto;
 width:1px;
 height:1px;
 overflow:hidden;
+}
+
+@media handheld {
+    #main {
+        margin-left: 0px;
+    }
+    #navcontainer {
+        float: none;
+    }
 }
