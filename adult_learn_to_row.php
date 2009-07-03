@@ -63,15 +63,14 @@ $195 per monthly session; $90 per two week session after completing one month.
     
 <p>
 Registration for Adult Learn to Row at Albany Rowing Center is simple. Please
-complete the <a href="/docs/2009_USRA_Waiver.pdf">USRA Waiver </a>and the <a
-href="/docs/L2R_Adult Reg_09.pdf">Adult Learn to Row Reqistration</a> and mail
-to: </p>
+complete the <a href="/docs/2009_USRA_Waiver.pdf">USRA Waiver</a> and the
+<a href="/docs/L2R_Adult Reg_09.pdf">Adult Learn to Row Reqistration</a> and mail to: </p>
 
-<p>
-Kathy Tolcser    <br/>
-41 Berzin Road   <br/>
-Nassau, NY 12123 <br/>
-</p>
+<pre>
+    Kathy Tolcser   
+    41 Berzin Road  
+    Nassau, NY 12123
+</pre>
 
 <h2> Questions ? </h2>
 
