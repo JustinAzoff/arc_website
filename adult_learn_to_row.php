@@ -17,7 +17,7 @@ below.
 <p>
 To advance to rowing in other ARC programs, you need to participate in at least
 one learn to row session. Advancement to the adult coached/intermediate program
-is dependent upon the coach’s assessment of your skill level. If you are not
+is dependent upon the coach's assessment of your skill level. If you are not
 quite ready after your first month, you may register for one or more two week
 sessions until advanced by the coach.
 </p>

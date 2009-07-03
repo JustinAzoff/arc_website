@@ -25,10 +25,10 @@ competitive workout may join the adult competitive practice on Saturdays.
 
 <dl>
     <dt>Spring and Fall</dt>
-    <dd>Monday, Wednesday, Thursday 6:30 - 8:00 p.m</dd>
+    <dd>Monday, Wednesday, Thursday 6:30 - 8:00 PM</dd>
 
     <dt>Summer</dt>
-    <dd>Monday, Wednesday, Friday - 6:30 - 8:00 p.m</dd>
+    <dd>Monday, Wednesday, Friday - 6:30 - 8:00 PM</dd>
 </dl>
 
 <h2> Membership Dues and Fees </h2>

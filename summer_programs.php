@@ -11,10 +11,9 @@ The Albany Rowing Center Learn to Row programs offer the experience of rowing
 to interested youth entering grades 6 and above. The Learn to Row Program
 permits young athletes to learn about the sport of rowing through
 participation. Students will learn water and boat safety, stroke mechanics on
-the ergometer and the basic techniques of sweep rowing. While the majority of
-time is spent on the water, there is also dry land training and education about
-boats and equipment.
-</p>
+the ergometer (rowing machine) and the basic techniques of sweep rowing. While
+the majority of time is spent on the water, there is also dry land training and
+education about boats and equipment.  </p>
 
 <h2> Swim Test </h2>
 

@@ -15,7 +15,8 @@ include("header.inc");
  
 <h2> Boathouse </h2>
 
-Our boathouse is located along the Albany Corning Preserve just north of the railroad bridge, at the Public Boat Launch.
+Our boathouse is located along the Albany Corning Preserve just north of the
+railroad bridge, at the Public Boat Launch.
 <a href="directions.php">Directions to the Boathouse</a>.
                                                         
     

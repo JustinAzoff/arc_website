@@ -22,7 +22,7 @@ in the morning session will row at the same time as the
 <a href="adult_competitive.php">master rowers</a> and be coached by either the
 masters coach or an assistant. Participants in the evening session will row on
 the same schedule as the <a href="adult_recreational.php">recreational
-rowers</a> and will be coached by an assistant coach. Evening intermdiate
+rowers</a> and will be coached by an assistant coach. Evening intermediate
 rowers seeking to achieve a competitive workout may join the adult competitive
 practice on Saturdays.
 </p>
