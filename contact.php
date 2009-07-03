@@ -32,7 +32,7 @@ railroad bridge, at the Public Boat Launch.
 
 <h3> Junior Programs </h3>
 <ul>
-    <li>Junior Programs - <a href="mailto:dquinn5@nycap.rr.com">dquinn5@nycap.rr.com</a></li>
+    <li>Junior Programs - <a href="mailto:juniorsrowing@albanyrowingcenter.org">juniorsrowing@albanyrowingcenter.org</a></li>
 </ul>
 
 <h3> Head of the Hudson Regatta: </h3>

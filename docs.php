@@ -11,13 +11,12 @@ Important forms and documents for Albany Rowing Center. Forms require Adobe Acro
 </p>
 
 <ul>
-<!--
-    <li><a href="/docs/Spring_09_Mods_Clothing_Info.pdf">Spring 2009 Mods Clothing Info</a></li>
-    <li><a href="/docs/Spring_09_Order_Form.pdf">Spring 2009 Clothing Order Form</a></li>
--->
     <li><a href="/docs/2009_USRA_Waiver.pdf">2009 USRA Waiver</a></li>
     <li><a href="/docs/2009_ARC_Adult_Membership_Form.pdf">2009 ARC Adult Membership Form</a></li>
-    <li><a href="http://www.albanyrowingcenter.org/docs/L2R_Adult%20Reg_09.pdf">2009 ARC Adult Learn to Row Form</a></li>
+    <li><a href="/docs/L2R_Adult%20Reg_09.pdf">2009 ARC Adult Learn to Row Form</a></li>
+    <li><a href="/docs/ARC 2009 Junior Program Registration Packet.pdf">ARC 2009 Junior Program Registration Packet</a></li>
+    <li><a href="/docs/ARC Junior SUMMER CAMP Registration Packet.pdf">ARC Junior SUMMER CAMP Registration Packet</a></li>
+    <li><a href="/docs/Junior Swim Test Certification Form.pdf">Junior Swim Test Certification Form</a></li>
 </ul>
 
 <p>

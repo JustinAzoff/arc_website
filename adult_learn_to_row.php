@@ -29,6 +29,11 @@ sessions until advanced by the coach.
 <p>
 You must pass an ARC-organized swim test at the Albany Bath House. A fee of
 $1.00 will be collected payable to the Albany Bath House.
+
+The swim test is a simple test designed to make sure you can swim a short
+distance, tread water and put on a life jacket thrown to you in the event that
+a boat flipped over. This rarely happens
+
 </p>
 
 <h2> Session Dates and Practice Times </h2>
