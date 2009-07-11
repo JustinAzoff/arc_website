@@ -19,7 +19,7 @@
 
 <div id="navcontainer">
 <ul>
-<li> <? header_link("/", "Home") ?> </li>
+<li> <? header_link("", "Home") ?> </li>
 <!-- <li> <? header_link("about.php", "About") ?> </li> -->
 <li> <? header_link("programs.php", "Programs &amp; Camps") ?>
 <ul>
