@@ -21,7 +21,7 @@ develop competitively.</p>
 <ul>
 
     <li><a href="junior_programs.php">Junior Program Overview</a></li>
-    <li><a href="/html/high_school_rowing.html">High School Rowing</a></li>
+    <li><a href="junior_programs.php#hs">High School Rowing</a></li>
     <li><a href="modified_rowing.php">Modified Rowing</a></li>
     <li><a href="summer_programs.php">Summer Programs</a></li>
 </ul>

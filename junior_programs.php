@@ -59,6 +59,7 @@ Regattas: Friday Afternoons <br/>
 Fees - Rowers: $310 Coxswains: $100
 </p>
 
+<a name="hs" />
 <h2> High School Rowing </h2>
     
 <p>
@@ -86,12 +87,21 @@ themselves. The job of the coxswain is to steer the boat, help the crew keep
 the cadence, calls out instructions and the stroke rating. The coxswain must be
 a good communicator.
 </p>
-<p>
-Spring Season: 3/16/09-5/30/09 <br/>
-Practice: M-Fr 4-6:15 PM Sat 9-11AM <br/>
-Regattas: See Schedule <br/>
-Fees - Rowers: $475 Coxswains: $100
-</p>
+<dl>
+<dt>Spring Season</dt>
+<dd>3/16/09-5/30/09 </dd>
+
+<dt>Practice</dt>
+<dd>M-Fr 4-6:15 PM</dd>
+<dd>Sat 9-11AM </dd>
+
+<dt>Regattas</dt>
+<dd>See Schedule </dd>
+
+<dt>Fees</dt>
+<dd>Rowers: $475</dd>
+<dd>Coxswains: $100</dd>
+</dl>
 
 <h2> Questions </h2>
 
