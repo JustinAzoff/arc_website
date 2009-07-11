@@ -23,7 +23,7 @@
 <!-- <li> <? header_link("about.php", "About") ?> </li> -->
 <li> <? header_link("programs.php", "Programs &amp; Camps") ?>
 <ul>
-    <li> <? header_link("adult_programs.php", "Adult Programs") ?> </li>
+<!--    <li> <? header_link("adult_programs.php", "Adult Programs") ?> </li> -->
     <li> <? header_link("junior_programs.php", "Junior Programs") ?> </li>
     <li> <? header_link("learn_to_row.php", "Learn to Row") ?> </li>
 </ul>
