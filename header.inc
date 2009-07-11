@@ -3,8 +3,8 @@
 <head>
 <title> Albany Rowing Center <?= $title ? "-" : ""?> <?= $title ?> </title>
 
-<link rel="stylesheet" type="text/css" href="style.css" />
-<link rel="stylesheet" type="text/css" media="print" href="print.css" />
+<link rel="stylesheet" type="text/css" href="/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/print.css" />
 
 </head>
 <body>
@@ -41,6 +41,6 @@ function header_link($href, $txt){
     } else {
         $active = "";
     }
-    printf('<a href="%s" %s>%s</a>', $href, $active, $txt);
+    printf('<a href="/%s" %s>%s</a>', $href, $active, $txt);
 }
 ?>
