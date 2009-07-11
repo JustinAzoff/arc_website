@@ -63,7 +63,7 @@ $195 per session.  (There is a discount for a child in more than one session: $3
 
 <p>
 Registration for 2009 Junior Learn to Row at Albany Rowing Center is simple.
-Please complete the <a href="/docs/2009_Junior_Camp_Reg.pdf">2009 Junior Learn to Row Reqistration</a> and mail to: </span></p>
+Please complete the <a href="/docs/2009_Junior_Camp_Reg.pdf">2009 Junior Learn to Row Reqistration</a> and mail to:</p>
 
 
 <pre>
@@ -72,8 +72,6 @@ Junior Registration
 Albany Rowing Center C/O Bierman
 111 Read Road, Glenmont, NY 12077 
 </pre>
-</p>
-
 
 </div>
 <? include("footer.inc"); ?>

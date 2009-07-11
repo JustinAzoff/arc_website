@@ -20,7 +20,7 @@ Important forms and documents for Albany Rowing Center. Forms require Adobe Acro
 </ul>
 
 <p>
-<a href="http://get.adobe.com/reader/?promoid=BUIGO"><img id="Picture5" height="39" width="158" src="../assets/images/get_adobe_reader.png" border="0" alt="get_adobe_reader" title="get_adobe_reader"></a>
+<a href="http://get.adobe.com/reader/?promoid=BUIGO"><img height="39" width="158" src="../assets/images/get_adobe_reader.png" border="0" alt="get_adobe_reader" title="get_adobe_reader" /></a>
 </p>
 
 </div>
