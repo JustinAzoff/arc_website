@@ -59,7 +59,7 @@ As you participate in races, Albany Rowing Center will deduct the "actual cost"
 of attending the regatta from your VRA.
 </p>
 
-<p>"Actual costs" are the cumulative cost of:
+<p>"Actual costs" are the cumulative cost of:</p>
 <ul>
     <li> Entry Fees </li>
     <li> Gas </li>
@@ -67,7 +67,7 @@ of attending the regatta from your VRA.
     <li> Coach's costs </li>
 </ul>
 
-Divided by:
+<p> Divided by: </p>
 <ul>
     <li> Number of racers participating in that regatta </li>
 </ul>
@@ -91,7 +91,6 @@ At the end of each racing season, racers may choose from the following options:
 <h2> Contact </h2>
 
 <a href="mailto:mastersrowing@albanyrowingcenter.org">mastersrowing@albanyrowingcenter.org</a>
-
 
 
 </div>
