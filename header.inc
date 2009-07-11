@@ -20,7 +20,7 @@
 <div id="navcontainer">
 <ul>
 <li> <? header_link("/", "Home") ?> </li>
-<li> <? header_link("about.php", "About") ?> </li>
+<!-- <li> <? header_link("about.php", "About") ?> </li> -->
 <li> <? header_link("programs.php", "Programs &amp; Camps") ?>
 <ul>
     <li> <? header_link("adult_programs.php", "Adult Programs") ?> </li>
@@ -28,9 +28,9 @@
     <li> <? header_link("learn_to_row.php", "Learn to Row") ?> </li>
 </ul>
 </li>
-<li> <? header_link("dates.php", "Schedule &amp; Results") ?> </li>
 <li> <? header_link("docs.php", "Forms &amp; Documents") ?> </li>
 <li> <? header_link("contact.php", "Contact Us") ?> </li>
+<li> <? header_link("directions.php", "Driving Directions") ?> </li>
 </ul>
 </div>
 <a name="content"/>
@@ -41,6 +41,6 @@ function header_link($href, $txt){
     } else {
         $active = "";
     }
-    printf('<a href="%s" %s> %s </a>', $href, $active, $txt);
+    printf('<a href="%s" %s>%s</a>', $href, $active, $txt);
 }
 ?>
