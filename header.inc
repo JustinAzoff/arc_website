@@ -14,7 +14,7 @@
 </p>
 
 <div id="header">
-<img src="logo_cropped.jpg" alt="Albany Rowing Center, Albany New York" />
+<img src="/logo_cropped.jpg" alt="Albany Rowing Center, Albany New York" />
 </div>
 
 <div id="navcontainer">
