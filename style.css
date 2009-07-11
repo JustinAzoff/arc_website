@@ -68,11 +68,12 @@ width: 10.6em;
 
 #navcontainer li a.active
 {
-    background-color: #c2abcc;
+    background-color: #eeddbb;
 }
 #navcontainer li a.active:hover
 {
-    background-color: #c2abcc;
+    background-color: #eeddbb;
+    color: black;
 }
 
 #navcontainer li a:hover
