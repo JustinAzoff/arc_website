@@ -8,7 +8,7 @@ include("header.inc");
 
 <p>The Albany Rowing Center offers two levels of Learn to Row.</p>
 
-<p>Read about our <a href="../html/juniors.html">Junior Learn to Row</a> or our
+<p>Read about our <a href="summer_programs.php">Junior Learn to Row</a> or our
 <a href="adult_learn_to_row.php">Adult Learn to Row</a> programs.</p>
 
 </div>
