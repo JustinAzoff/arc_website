@@ -13,17 +13,18 @@ permits young athletes to learn about the sport of rowing through
 participation. Students will learn water and boat safety, stroke mechanics on
 the ergometer (rowing machine) and the basic techniques of sweep rowing. While
 the majority of time is spent on the water, there is also dry land training and
-education about boats and equipment.  </p>
+education about boats and equipment.
+</p>
 
 <h2> Swim Test </h2>
 
 <p>
-The swim test can be taken at ANY POOL where a lifeguard is present.  We do not
+The swim test can be taken at ANY POOL where a lifeguard is present. We do not
 administer swim tests at the boathouse. Please print out the
-<a href="/docs/2009_Junior_Camp_Reg.pdf">registration form</a> and have a
-lifeguard sign it. You can either mail the form to Albany Rowing Center OR
-bring it to your first day of class. You may not be boated without the swim
-test.
+<a href="/docs/Junior Swim Test Certification Form.pdf">Swim Test Certification</a>
+and have a lifeguard sign it.  You can either mail the form to Albany Rowing
+Center OR bring it to your first day of class. You may not be boated without
+the swim test.
 </p>
 
 <h2> Requirements </h2>
@@ -56,14 +57,16 @@ Camp Time is 9 am - 11:30 am, Monday through Friday
 
 <h2> Fees </h2>
 <p>
-$195 per session.  (There is a discount for a child in more than one session: $370 for 2 and $520 for all 3)
+$195 per session. (There is a discount for a child in more than one session: $320 for 2 and $420 for all 3)
 </p>
 
 <h2> Registration </h2>
 
 <p>
 Registration for 2009 Junior Learn to Row at Albany Rowing Center is simple.
-Please complete the <a href="/docs/2009_Junior_Camp_Reg.pdf">2009 Junior Learn to Row Reqistration</a> and mail to:</p>
+Please complete the
+<a href="/docs/2009_Junior_Camp_Reg.pdf">2009 Junior Learn to Row Reqistration Packet</a> and mail to:
+</p>
 
 
 <pre>
