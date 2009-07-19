@@ -14,15 +14,7 @@
 
 <style type="text/css" media="screen">
 
-<?php
-// Checks to see whether it needs a sidebar or not
-if ( !$withcomments && !is_single() ) {
-?>
-	#page { background: url("<?php bloginfo('stylesheet_directory'); ?>/images/kubrickbg-<?php bloginfo('text_direction'); ?>.jpg") repeat-y top; border: none; }
-<?php } else { // No sidebar ?>
-	#page { background: url("<?php bloginfo('stylesheet_directory'); ?>/images/kubrickbgwide.jpg") repeat-y top; border: none; }
-<?php } ?>
-
+#page { background: url("<?php bloginfo('stylesheet_directory'); ?>/images/kubrickbgwide.jpg") repeat-y top; border: none; }
 </style>
 
 <?php wp_head(); ?>
@@ -32,9 +24,6 @@ if ( !$withcomments && !is_single() ) {
 
 
 <div id="header">
-	<div id="headerimg">
-		<h1><a href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a></h1>
-		<div class="description"><?php bloginfo('description'); ?></div>
-	</div>
+    <img src="/logo_cropped.jpg" alt="Albany Rowing Center, Albany New York" />
 </div>
 <hr />

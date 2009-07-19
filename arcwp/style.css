@@ -1,6 +1,6 @@
 /*  
-Theme Name: WordPress Default
-Theme URI: http://wordpress.org/
+Theme Name: WordPress ARC
+Theme URI: http://albanyrowingcenter.org/
 Description: The default WordPress theme based on the famous <a href="http://binarybonsai.com/kubrick/">Kubrick</a>.
 Version: 1.6
 Author: Michael Heilemann
@@ -23,7 +23,6 @@ Author URI: http://binarybonsai.com/
 body {
 	font-size: 62.5%; /* Resets 1em to 10px */
 	font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
-	background: #d5d6d7 url('images/kubrickbgcolor.jpg');
 	color: #333;
 	text-align: center;
 	}
@@ -35,8 +34,7 @@ body {
 	}
 
 #header {
-	background: #73a0c5 url('images/kubrickheader.jpg') no-repeat bottom center;
-	}
+}
 
 #headerimg 	{ 
 	margin: 7px 9px 0; 
@@ -71,9 +69,8 @@ body {
 	}
 
 #footer {
-	background: #eee url('images/kubrickfooter.jpg') no-repeat top; 
 	border: none;
-	}
+}
 
 small {
 	font-family: Arial, Helvetica, Sans-Serif;
@@ -222,11 +219,9 @@ body {
 	}
 
 #header {
-	background-color: #73a0c5;
 	margin: 0 0 0 1px; 
 	padding: 0; 
-	height: 200px; 
-	width: 758px;
+    color: black;
 	}
 
 #headerimg {
