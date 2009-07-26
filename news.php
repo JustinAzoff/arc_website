@@ -1,7 +1,21 @@
 <? 
+$cat_mapping = array(
+    "hoh" => 4,
+    "l2r" => 5,
+);
+
+$base = "http://www.albanyrowingcenter.org/";
+$base .= "wpblog/";
+$url = $base . "?feed=rss2";
+
+$cat = $_GET['cat'];
+#php is such a joke...
+if(array_key_exists($cat, $cat_mapping)){
+    $url .= "&cat=" . $cat_mapping[$cat];
+}
 
 $doc = new DOMDocument();
-$doc->load('http://www.albanyrowingcenter.org/wpblog/?feed=rss2');
+$doc->load($url);
 $news_feed = array();
 foreach ($doc->getElementsByTagName('item') as $node) {
     $itemRSS = array ( 
