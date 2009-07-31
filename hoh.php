@@ -6,7 +6,7 @@ include("header.inc");
 <div id="main">
 <h1> <?= $title ?> </h1>
 
-<h2>2009 Head of the Hudson will take place on Saturday October 3rd</h2>
+<h2>2009 Head of the Hudson will take place on Sunday September 27th</h2>
 <p>
 Contact <a href="mailto:jrtauzel@yahoo.com">jrtauzel@yahoo.com</a> for all
 inquiries regarding 2009 registration and scheduling
