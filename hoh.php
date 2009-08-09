@@ -49,7 +49,7 @@ allowed by law.
 <ul>
     <li><a href="https://www.regattacentral.com/index.jsp?tab=regattas&amp;section=all_entries&amp;id=798">Entries</a></li>
     <li><a href="http://www.regattacentral.com/regatta/results/798.pdf">Results</a></li>
-    <li><a href="hoth_2008_sponsors.php">Sponsors</a></li>
+    <li><a href="hoh_2008_sponsors.php">Sponsors</a></li>
 </ul>
 
 <p>
