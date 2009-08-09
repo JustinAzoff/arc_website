@@ -105,49 +105,6 @@ days. We will row in light rain if the water is safe. Always dress
 appropriately for the weather. Hats are very useful. Remember, it is usually
 colder by the river.
 </p>
-    
-<h2> Session Dates and Practice Times </h2>
-
-<dl>
-<dt> Spring Season</dt>
-<dd> 3/30/2009-5/30/2009 </dd>
-
-<dt> Practice </dt>
-<dd> M-TH 4-6PM </dd>
-
-<dt> Regattas </dt>
-<dd> Friday Afternoons</dd>
-
-<dt> MODS Championships</dt>
-<dd> May 30th</dd>
-</dl>
-
-
-<h2> Fees </h2>
-<p>
-$310 per person
-</p>    
-    
-
-<h2> Questions? </h2>
-    
-    
-
-<p>
-If you have general questions about the ARC modified rowing program, please
-call MODS Coordinator Donna Quinn Holloway 312.9199 or e-mail
-<a href="mailto:dquinn5@nycap.rr.com">dquinn5@nycap.rr.com</a>
-</p>
-
-<p>
-<a href="/docs/Spring_09_ARC_Junior_Registration_Form.doc">Registration and</a> <a href="/docs/Spring_09_Order_Form.pdf">Clothing Order</a> forms are available on the website.
-</p>
-
-<p>
-If you have coaching questions, please call Head Coach, Drue Spallholz at
-312.7485 or e-mail druespalz@hotmail.com. 
-</p>
-
 
 </div>
 <? include("footer.inc"); ?>
