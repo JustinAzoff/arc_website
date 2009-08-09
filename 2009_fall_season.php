@@ -9,10 +9,10 @@ include("header.inc");
 <thead>
 <tr>
     <th></th>
-    <th>Junior Team</th>
-    <th>Junior Modified</th>
-    <th>Adult Competitive</th>
-    <th>Adult Non - Competitive </th>
+    <th><a href="junior_programs.php">Junior Team</a></th>
+    <th><a href="modified_rowing.php">Junior Modified</a></th>
+    <th><a href="adult_competitive.php">Adult Competitive</a></th>
+    <th><a href="adult_recreational.php">Adult Non - Competitive</a></th>
 </tr>
 <thead>
 <tbody>
