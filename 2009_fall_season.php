@@ -14,7 +14,7 @@ include("header.inc");
     <th><a href="adult_competitive.php">Adult Competitive</a></th>
     <th><a href="adult_recreational.php">Adult Non - Competitive</a></th>
 </tr>
-<thead>
+</thead>
 <tbody>
 <tr>
     <th>Season Dates</th>
@@ -68,7 +68,7 @@ include("header.inc");
     <th> Regatta Fees </th>
     <td>Included <br/>
         [Except for HOC] </td>
-    <td> Regatta fees to be determined, if any
+    <td> Regatta fees to be determined, if any </td>
     <td> $175 (start of season) </td>
     <td> None </td>
 </tr>
@@ -136,7 +136,7 @@ Board may provide a credit toward future rowing dues rather than a refund.
 <dt> General information; all programs</dt>
 <dd> <a href="mailto:info@albanyrowingcenter.org">info@albanyrowingcenter.org</a> </dd>
 
-<dt> Masters Advanced/Competitive Group
+<dt> Masters Advanced/Competitive Group </dt>
 <dd> Kathy Tolcser at <a href="mailto:ktolcs77@gmail.com">ktolcs77@gmail.com</a> </dd>
 
 <dt> Adult Non-competitive Group </dt>
