@@ -52,13 +52,6 @@ discretion of the Coach. Skill development in MODS will emphasize safety,
 technique, coordination, synchronization, flexibility, balance and strength.
 </p>
 
-<p>
-Spring Season: 3/30/09-5/30/09 <br/>
-Practice: M-TH 4-6PM <br/>
-Regattas: Friday Afternoons <br/>
-Fees - Rowers: $310 Coxswains: $100
-</p>
-
 <a name="hs" />
 <h2> High School Rowing </h2>
     
@@ -87,29 +80,53 @@ themselves. The job of the coxswain is to steer the boat, help the crew keep
 the cadence, calls out instructions and the stroke rating. The coxswain must be
 a good communicator.
 </p>
-<dl>
-<dt>Spring Season</dt>
-<dd>3/16/09-5/30/09 </dd>
 
-<dt>Practice</dt>
-<dd>M-Fr 4-6:15 PM</dd>
-<dd>Sat 9-11AM </dd>
-
-<dt>Regattas</dt>
-<dd>See Schedule </dd>
-
-<dt>Fees</dt>
-<dd>Rowers: $475</dd>
-<dd>Coxswains: $100</dd>
-</dl>
-
-<h2> Questions </h2>
+<h2>Questions</h2>
 
 <ul>
-<li> Donna Quinn (Holloway) - Junior Program Coordinator - (518) 479-0469 - <a href="mailto:dquinn5@nycap.rr.com">dquinn5@nycap.rr.com</a> </li>
-<li> Drue Spallholz - Head Coach - (518) 312-7485 - <a href="mailto:druespalz@hotmail.com">druespalz@hotmail.com</a> </li>
+    <li> Registration - <a href="mailto:lbierman@nycap.rr.com">lbierman@nycap.rr.com</a> </li>
+    <li> PARK (ARC Junior Parent organization) - <a href="mailto:wade.johnston@hotmail.com">wade.johnston@hotmail.com</a> </li>
+    <li> General information - <a href="mailto:info@albanyrowingcenter.org">info@albanyrowingcenter.org</a>  </li>
 </ul>
 
+<h2>Schedule</h2>
 
+<dl>
+<dt>Fall Season</dt>
+<dd>August 24 – October 31</dd>
+
+<dt>Practice</dt>
+<dd>Monday through Friday at 4:15 – 6:15 PM</dd>
+<dd>Saturdays at 9:00 – 11:00 AM</dd>
+</dl>
+
+<h2>Dues</h2>
+<ul>
+<li>Dues are $450 and include regatta fees for ordinary regattas </li>
+<li>Coxswain Fee is $100 </li>
+</ul>
+
+<h2> Coaching </h2>
+
+<dl>
+<dt>Program Director/Head Coach</dt>
+<dd>TBA</dd>
+
+<dt> Assistant Coaches </dt>
+<dd> Mike MacMinn </dd>
+<dd> Evan Bollin  </dd>
+
+<dt> Modified Program </dt>
+<dd> Jenny Weigert  </dd>
+</dl>
+
+<h2> Regatta Schedule </h2>
+<ul>
+    <li> 12 September - Fish Creek 5000 (masters and juniors)   </li>
+    <li> 27 September - Head of the Hudson (all hands on deck; note this is a Sunday) </li>
+    <li> 10 October - Head of the Housatonic (masters and juniors) </li>
+    <li> 17 October - Head of the Charles(HOC)[select crews only; not included in dues]</li>
+    <li> 24 and 25 October - Head of the Fish (masters and juniors)</li>
+</ul>
 </div>
 <? include("footer.inc"); ?>
