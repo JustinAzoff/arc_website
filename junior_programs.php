@@ -93,11 +93,11 @@ a good communicator.
 
 <dl>
 <dt>Fall Season</dt>
-<dd>August 24 – October 31</dd>
+<dd>August 24 - October 31</dd>
 
 <dt>Practice</dt>
-<dd>Monday through Friday at 4:15 – 6:15 PM</dd>
-<dd>Saturdays at 9:00 – 11:00 AM</dd>
+<dd>Monday through Friday at 4:15 - 6:15 PM</dd>
+<dd>Saturdays at 9:00 - 11:00 AM</dd>
 </dl>
 
 <h2>Dues</h2>
