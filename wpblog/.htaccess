@@ -1,0 +1,11 @@
+AuthUserFile /home/virtual/site126/var/www/htpasswd
+AuthName "WP Blog"
+AuthType Basic 
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from albanyrowingcenter.org venus.hostcolor.us
+require valid-user
+Satisfy Any
+</Limit>
