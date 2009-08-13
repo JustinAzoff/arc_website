@@ -35,21 +35,21 @@ compete.
 <a href="modified_rowing.php">More about MODS</a>
 
 <p>
-ARC Junior rowers in 6th-8th grade may participate with the ARC Modified Team
-beginning in the Spring of 2009. No prior rowing experience is required. We
-intend to focus on the creation of a fun and safe opportunity to learn the
-sport of rowing and the basics of competition.   Modified Rowing is anticipated
-to grow, and more opportunities for competition will arise.  Until then this
-program may be thought of as a gateway for rowing hopefuls.
+In the spring of 2009, Albany Rowing Center began the Modified Rowing Program
+for middle school aged rowers.  There are few clubs that offer rowing for your
+age group.   We intend to focus on creating a fun and safe opportunity for you
+to learn the sport of rowing and the basics of competition.   Modified Rowing
+is anticipated to grow and more opportunities for competition will arise.
+Until then this program may be thought of as a gateway for rowing hopefuls.
 </p>
 
 <p>
-The Modified Program is a first step into competitive rowing.  Consideration of
-modified rowers needs and expectations will be given. Rowers will emerge with a
-good foundation of skill and knowledge. Highly competitive Modified Rowers
-(MODS) may be eligible to row on the High School Team in 8th grade at the
-discretion of the Coach. Skill development in MODS will emphasize safety,
-technique, coordination, synchronization, flexibility, balance and strength.
+The Modified Program is a first step into the high school team.  Consideration
+of modified rowers needs and expectations will be given.  Rowers will emerge
+with a good foundation of skill and knowledge.  Highly competitive Modified
+Rowers (MODS) may be eligible to row on the High School Team at the discretion
+of the Coach. Skill development in MODS will lay the groundwork for your
+school's competitive High School boats able to compete in Scholastic regattas.
 </p>
 
 <a name="hs" />
