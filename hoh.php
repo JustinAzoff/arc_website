@@ -42,8 +42,12 @@ of the events that we host as well as to contribute toward special equipment
 needs such as new oars or boats. The Albany Rowing Center is a 501(c)(3)
 not-for-profit organization. Contributions are tax-deductible to the extent
 allowed by law.
-<a href="/docs/head of the hudson brochure2009.pdf">Download a fundraising brochure.</a>
 </p>
+<h2> Related Documents </h2>
+<ul>
+    <li><a href="/docs/head of the hudson brochure2009.pdf">Fundraising brochure</a> </li>
+    <li><a href="hoh_2009_race_sponsor_fact_sheet.php">Sponsor, Supporter and Advertiser Fact Sheet</a></li>
+</ul>
 
 <h2>2008 Head of the Hudson</h2>
 <ul>

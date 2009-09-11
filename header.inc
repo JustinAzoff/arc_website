@@ -29,7 +29,11 @@
     <li> <? header_link("learn_to_row.php", "Learn to Row") ?> </li>
 </ul>
 </li>
-<li> <? header_link("hoh.php", "Head of the Hudson") ?> </li>
+<li> <? header_link("hoh.php", "Head of the Hudson") ?>
+<ul>
+<li> <? header_link("hoh_2009_race_sponsor_fact_sheet.php", "Sponsor the Hoh") ?>
+</ul>
+</li>
 <li> <? header_link("docs.php", "Forms &amp; Documents") ?> </li>
 <li> <? header_link("contact.php", "Contact Us") ?> </li>
 <li> <? header_link("directions.php", "Driving Directions") ?> </li>
