@@ -24,6 +24,7 @@
 <li> <? header_link("programs.php", "Programs &amp; Camps") ?>
 <ul>
 <!--    <li> <? header_link("adult_programs.php", "Adult Programs") ?> </li> -->
+    <li> <? header_link("winter_training.php", "Winter training") ?> </li>
     <li> <? header_link("2009_fall_season.php", "2009 Fall Season") ?> </li>
     <li> <? header_link("junior_programs.php", "Junior Programs") ?> </li>
     <li> <? header_link("learn_to_row.php", "Learn to Row") ?> </li>
