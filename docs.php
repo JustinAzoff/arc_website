@@ -11,6 +11,7 @@ Important forms and documents for Albany Rowing Center. Forms require Adobe Acro
 </p>
 
 <ul>
+    <li><a href="/docs/WINTER TRAINING REGISTRATION FORM 09_10.pdf">2009 ARC Winter Training Registration Form</a></li>
     <li><a href="/docs/2009_USRA_Waiver.pdf">2009 USRA Waiver</a></li>
     <li><a href="/docs/2009_ARC_Adult_Membership_Form.pdf">2009 ARC Adult Membership Form</a></li>
     <li><a href="/docs/L2R_Adult%20Reg_09.pdf">2009 ARC Adult Learn to Row Form</a></li>

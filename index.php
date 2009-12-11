@@ -16,6 +16,20 @@ ARC rowers represent all ages (from middle school students on up) and a
 wide range of rowing abilities (from novice to experienced). 
 </p>
 
+<h2>ARC's Winter Training Begins Monday December 14<super>th</super>!</h2>
+<p>
+The 2009 - 2010 winter training program will prepare varsity rowers for spring
+competition and improve athleticism and rowing potential for novices,
+non-competitive adults and those returning to rowing after a break in training.
+<a href="winter_training.php">Learn more about the winter training program</a>.
+</p>
+
+<h2> Join ARC in the Holiday Challenge and erg for a good cause!</h2>
+<p>
+Meet the challenge by rowing 100,000 or 200,000 meters between Thanksgiving Day
+and Christmas Eve. <a href="holiday_challenge.php">Learn more about the holiday challenge</a>.
+</p>
+
 <h2>Rowing Programs and Camps</h2>
 <table border="0" cellspacing="10" cellpadding="5">
 <tr>
