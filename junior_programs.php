@@ -110,10 +110,9 @@ a good communicator.
 
 <dl>
 <dt>Program Director/Head Coach</dt>
-<dd>TBA</dd>
+<dd>Mike MacMinn</dd>
 
 <dt> Assistant Coaches </dt>
-<dd> Mike MacMinn </dd>
 <dd> Evan Bollin  </dd>
 
 <dt> Modified Program </dt>
