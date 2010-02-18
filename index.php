@@ -71,7 +71,6 @@ adults.</p>
 <ul>
     <li><a href="adult_learn_to_row.php">Adults</a></li>
     <li><a href="summer_programs.php">Juniors</a></li>
-    <li><a href="/html/national_learn_to_row_day.html">National Learn to Row Day</a></li>
 </ul>
 
 </td>
