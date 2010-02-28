@@ -43,10 +43,11 @@ non-competitive adults and those returning to rowing after a break in training.
 adults of all ages.</p>
 
 <ul>
-  <li><a href="adult_competitive.php">Competitive</a> </li>
-  <li><a href="adult_coached_intermediate.php">Coached / Intermediate</a> </li>
-  <li><a href="adult_recreational.php">Recreational</a> </li>
-  <li><a href="visiting_and_collegiate.php">Visiting Rowers</a> </li>
+  <li><a href="adult_competitive.php">Morning Competitive</a> </li>
+  <li><a href="adult_evening_program.php">Evening Coached / Intermediate / Recreational</a> </li>
+  <li><a href="adult_novice.php">Novice Program</a> </li>
+  <li><a href="visiting.php">Visiting Rowers</a> </li>
+  <!-- <li><a href="collegiate.php">Collegiate Rowers</a> </li> -->
 </ul>
 
 </td>

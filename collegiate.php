@@ -1,25 +1,10 @@
 
 <? 
-$title = "Visiting and Collegiate";
+$title = "Collegiate Rowers";
 include("header.inc");
 ?>
 <div id="main">
-<h1> Programs and Camps: Visiting and Collegiate Rowers </h1>
-
-<h2> Drop-In Rowers </h2>
-
-<p>
-ARC offers opportunity for guest rowers to row while in the Albany area.
-Experienced rowers who live outside of the Capital District (Albany,
-Rensselaer, Saratoga and Schenectady counties) and who are visiting the Albany
-area may row in any of our adult programs while they are here. The guest rower
-fees are $15 per day or $35 per week for recreational and adult intermediate,
-and $45 per week for adult competitive. Guest rowers must sign an ARC waiver
-and release form. As a rule, no guest may row more than 2 consecutive weeks in
-one season without joining ARC as a member.
-</p>
-
-<h2> Collegiate Rowers </h2>
+<h1> <?= $title ?>
 
 <p>
 If you are a collegiate rower who wishes to join us for the summer session, ARC

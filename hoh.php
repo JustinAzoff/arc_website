@@ -6,11 +6,50 @@ include("header.inc");
 <div id="main">
 <h1> <?= $title ?> </h1>
 
-<h2>2009 Head of the Hudson will take place on Sunday September 27th</h2>
-<p>
-Contact <a href="mailto:jrtauzel@yahoo.com">jrtauzel@yahoo.com</a> for all
-inquiries regarding 2009 registration and scheduling
-</p>
+<h2> The 2010 Head of the Hudson will be held on Saturday September 25th!  </h2>
+
+<ul>
+    <li> <a href="http://www.regattacentral.com/regatta/results/1369.pdf">2009 Head of the Hudson Results</a> </li>
+    <li> <a href="http://www.regattacentral.com/regatta/results/798.pdf">2008 Head of the Hudson Results</a> </li>
+</ul>
+
+<h2>Thank You to the Sponsors of the 2009 Head of the Hudson!</h2>
+<h3>Regatta Sponsors</h3>
+<ul>
+    <li><a href="http://www.albany.org">The City of Albany</a></li>
+    <li><a href="http:///www.stpetershealthcare.org">St. Peter's Cardiac &amp; Vascular Center</a>
+        - The Science of Medicine. The Compassion to Heal.</li>
+</ul>
+
+<h3>Race Sponsors</h3>
+<ul>
+
+    <li><a href="http://www.albany.org">Hon. Gerald D. Jennings, Mayor, City of Albany</a></li>
+
+    <li><a href="http://www.evansale.com">Albany Pump Station</a>
+        - Serious beer. Delicious food. Incredible space.</li>
+
+    <li><a href="www.allu.com">AllU Activewear</a>
+        - Making someone's favorite shirt since 1986.</li>
+
+    <li>Ambrosino Design, Inc
+        - We'll help you make that first impression the right one.</li>
+
+    <li><a href="http://www.cdphp.com">CDPHP</a>
+        - A plan for life</li>
+
+    <li><a href="http:///www.clarionhotelalbany.com">Clarion Hotel of Albany</a>
+        - Visit Scenarios Restaurant at the Clarion. A relaxed and comfortable way to end your day.</li>
+
+    <li><a href="http://www.hrfmlaw.com">Heslin Rothenberg Farley &amp; Mesiti PC</a>
+        - Protecting new ideas - from concept to commercialization.</li>
+
+    <li><a href="http://www.MosmenManning.com">Mosmen and Manning</a>
+        - The Perfect Fit for Your Move</li>
+
+    <li><a href="http://www.stewartsshops.com">Stewart's Shops</a>
+        - We are closer to you. </li>
+</ul>
 
 <h2>The Head of the Hudson Regatta</h2>
 <p>
@@ -31,6 +70,7 @@ teams of certain sponsored races. An All-Points Trophy is awarded at the end of
 the regatta to the team with the most points overall, based on placement in
 each race event.
 </p>
+
 <p>
 The regatta is both ARC's coveted home regatta as well as the focal point for
 our fall fundraising drive. Founded in 1985, the Albany Rowing Center, located
@@ -41,11 +81,13 @@ salaries. We rely on fundraising activities and sponsorships to cover the costs
 of the events that we host as well as to contribute toward special equipment
 needs such as new oars or boats. The Albany Rowing Center is a 501(c)(3)
 not-for-profit organization. Contributions are tax-deductible to the extent
-allowed by law.
+allowed by law. 
 </p>
+
+
 <h2> Related Documents </h2>
 <ul>
-    <li><a href="/docs/head of the hudson brochure2009.pdf">Fundraising brochure</a> </li>
+    <li><a href="/docs/head of the hudson brochure2009.pdf">2009 Fundraising brochure</a> </li>
     <li><a href="hoh_2009_race_sponsor_fact_sheet.php">Sponsor, Supporter and Advertiser Fact Sheet</a></li>
 </ul>
 
@@ -55,15 +97,6 @@ allowed by law.
     <li><a href="http://www.regattacentral.com/regatta/results/798.pdf">Results</a></li>
     <li><a href="hoh_2008_sponsors.php">Sponsors</a></li>
 </ul>
-
-<p>
-The 22nd Head of the Hudson Regatta was held on Saturday, September 27th, a day
-when the weathermen predicted heavy rain all afternoon that never materialized.
-Twenty-two rowing clubs from 18 cities and 5 states competed in the regatta.
-While this year's regatta had fewer race entries than 2007, there was greater
-diversity in the clubs that attended including more collegiate rowers and
-several new high school entries.
-</p>
 
 </div>
 <? include("footer.inc"); ?>
