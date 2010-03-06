@@ -35,7 +35,7 @@ We invite you to be a sponsor, a supporter or an advertiser in support of The
 <p>
 Each year in the fall, the Albany Rowing Center hosts the Head of the Hudson
 Regatta.  Typical of other "head" races that are held throughout the country in
-the fall, the Head of the Hudson is a three-mile race “against the clock.”  The
+the fall, the Head of the Hudson is a three-mile race "against the clock."  The
 regatta consists of thirty or more different race events, in which adults,
 juniors and recreational rowers, both novice and experienced, may compete.
 Competing rowers begin at a start point three miles north of the Albany Rowing
