@@ -4,7 +4,7 @@ $title = "Adult Competitive";
 include("header.inc");
 ?>
 <div id="main">
-<h1> Programs and Camps: Adult Competitive </h1>
+<h1> Adult Competitive </h1>
 
 <p>
 The morning competitive program is designed for experienced who want to train
