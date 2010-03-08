@@ -31,27 +31,6 @@ potential. Juniors ages 11-18 are all given the opportunity to learn to row and
 compete. 
 </p>
 
-<h2> Modified Rowing (Mods) </h2>
-<a href="modified_rowing.php">More about MODS</a>
-
-<p>
-In the spring of 2009, Albany Rowing Center began the Modified Rowing Program
-for middle school aged rowers.  There are few clubs that offer rowing for your
-age group.   We intend to focus on creating a fun and safe opportunity for you
-to learn the sport of rowing and the basics of competition.   Modified Rowing
-is anticipated to grow and more opportunities for competition will arise.
-Until then this program may be thought of as a gateway for rowing hopefuls.
-</p>
-
-<p>
-The Modified Program is a first step into the high school team.  Consideration
-of modified rowers needs and expectations will be given.  Rowers will emerge
-with a good foundation of skill and knowledge.  Highly competitive Modified
-Rowers (MODS) may be eligible to row on the High School Team at the discretion
-of the Coach. Skill development in MODS will lay the groundwork for your
-school's competitive High School boats able to compete in Scholastic regattas.
-</p>
-
 <a name="hs" />
 <h2> High School Rowing </h2>
     
@@ -81,6 +60,82 @@ the cadence, calls out instructions and the stroke rating. The coxswain must be
 a good communicator.
 </p>
 
+
+<h2>2010 Dates and Dues</h2> 
+<table border="2" cellspacing="0"> 
+<tr valign="top">
+  <td> </td> 
+  <th>Spring</th> 
+  <th>Summer</th> 
+  <th>Fall</th>
+</tr> 
+<tr valign="top">
+  <th>Dates</th> 
+  <td>March 15 - May 30</td> 
+  <td>May 31 - August 21</td> 
+  <td>August 23 - October 31</td></tr> 
+<tr valign="top">
+  <th>Weekdays</th> 
+  <td>Mon-Fri  <br> 
+  4:15 - 6:00 p.m.</td> 
+  <td>Mon-Fri  <br> 
+  7:00-9:00 a.m.</td> 
+  <td>Mon-Fri  <br> 
+  4:15 - 6:00 p.m.</td>
+</tr> 
+<tr valign="top">
+  <th>Weekend</th> 
+  <td>Sat <br> 
+  9:00-11:00 a.m.</td> 
+  <td>Sat <br> 
+  a.m.</td> 
+  <td>Sat <br> 
+  9:00-11:00 a.m.</td>
+</tr> 
+<tr valign="top">
+  <th>Rower Dues*</th> 
+  <td>$450*</td> 
+  <td>$380*/$225*  <br>
+  8 weeks/4 weeks</td> 
+  <td>$450*</td></tr> 
+<tr valign="top">
+  <th>Coxswain Dues*</th> 
+  <td>$100*</td> 
+  <td>$100*</td> 
+  <td>$100*</td>
+</tr> 
+</table> 
+<p>* Regatta fees are not included in dues.</p>
+
+
+<h2> Coaches </h2>
+<ul>
+    <li> Program Director/Head Coach - Mike MacMinn - <a href="mailto:mike.macminn@gmail.com">mike.macminn@gmail.com</a></li>
+    <li> Assistant Coach - Evan Bollin</li>
+</ul>
+
+<h2>Registration</h2>
+<ul>
+    <li><a href="/docs/Spring 10 Returning Registration Forms.pdf">Spring 10 Returning Registration Forms</a></li>
+    <li><a href="/docs/Spring 10 NEW rower Reg Forms.pdf">Spring 10 NEW rower Reg Forms</a></li>
+</ul>
+
+<p>
+Spring registrations are due Mar 15.  Rowers will not be allowed to row until
+registration materials and payment are submitted. 
+</p>
+
+<p>
+Please mail completed registration forms to:
+</p>
+
+<pre>
+    Organization of Adirondack Rowers and Scullers
+    Albany Rowing Center C/O Bierman
+    111 Read Road,
+    Glenmont, NY 12077
+</pre>
+
 <h2>Questions</h2>
 
 <ul>
@@ -89,43 +144,9 @@ a good communicator.
     <li> General information - <a href="mailto:info@albanyrowingcenter.org">info@albanyrowingcenter.org</a>  </li>
 </ul>
 
-<h2>Schedule</h2>
-
-<dl>
-<dt>Fall Season</dt>
-<dd>August 24 - October 31</dd>
-
-<dt>Practice</dt>
-<dd>Monday through Friday at 4:15 - 6:15 PM</dd>
-<dd>Saturdays at 9:00 - 11:00 AM</dd>
-</dl>
-
-<h2>Dues</h2>
-<ul>
-<li>Dues are $450 and include regatta fees for ordinary regattas </li>
-<li>Coxswain Fee is $100 </li>
-</ul>
-
-<h2> Coaching </h2>
-
-<dl>
-<dt>Program Director/Head Coach</dt>
-<dd>Mike MacMinn</dd>
-
-<dt> Assistant Coaches </dt>
-<dd> Evan Bollin  </dd>
-
-<dt> Modified Program </dt>
-<dd> Jenny Weigert  </dd>
-</dl>
-
 <h2> Regatta Schedule </h2>
 <ul>
-    <li> 12 September - Fish Creek 5000 (masters and juniors)   </li>
-    <li> 27 September - Head of the Hudson (all hands on deck; note this is a Sunday) </li>
-    <li> 10 October - Head of the Housatonic (masters and juniors) </li>
-    <li> 17 October - Head of the Charles(HOC)[select crews only; not included in dues]</li>
-    <li> 24 and 25 October - Head of the Fish (masters and juniors)</li>
+    <li> Details to be announced shortly</li>
 </ul>
 </div>
 <? include("footer.inc"); ?>
