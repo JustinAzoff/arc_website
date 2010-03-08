@@ -16,23 +16,6 @@ ARC rowers represent all ages (from middle school students on up) and a
 wide range of rowing abilities (from novice to experienced). 
 </p>
 
-<h2>ARC wins Liberty Mutual Responsible Sports Community Grant!</h2>
-<p>
-<img src="LMRSCG.gif" align="right" alt="Liberty Mutual Community Grant Winner" />
-ARC is one of 20 winners of
-<a href="https://www.responsiblesports.com/default.aspx">Liberty Mutual's Fall
-2009 Responsible Sports Community Grants</a>.  ARC will use the $2,500 grant to
-purchase a set of new sweep oars for our junior rowers.
-</p>
-
-<h2>ARC's Winter Training Begins Monday December 14<super>th</super>!</h2>
-<p>
-The 2009 - 2010 winter training program will prepare varsity rowers for spring
-competition and improve athleticism and rowing potential for novices,
-non-competitive adults and those returning to rowing after a break in training.
-<a href="winter_training.php">Learn more about the winter training program</a>.
-</p>
-
 <h2>Rowing Programs and Camps</h2>
 <table border="0" cellspacing="10" cellpadding="5">
 <tr>
@@ -61,7 +44,7 @@ develop competitively.</p>
 
     <li><a href="junior_programs.php">Junior Program Overview</a></li>
     <li><a href="junior_programs.php#hs">High School Rowing</a></li>
-    <li><a href="modified_rowing.php">Modified Rowing</a></li>
+    <!--<li><a href="modified_rowing.php">Modified Rowing</a></li>-->
     <li><a href="summer_programs.php">Summer Programs</a></li>
 </ul>
 </td>
@@ -81,6 +64,15 @@ adults.</p>
 
 </tr>
 </table>
+
+<h2>ARC wins Liberty Mutual Responsible Sports Community Grant!</h2>
+<p>
+<img src="LMRSCG.gif" align="right" alt="Liberty Mutual Community Grant Winner" />
+ARC is one of 20 winners of
+<a href="https://www.responsiblesports.com/default.aspx">Liberty Mutual's Fall
+2009 Responsible Sports Community Grants</a>.  ARC will use the $2,500 grant to
+purchase a set of new sweep oars for our junior rowers.
+</p>
 
 
 
