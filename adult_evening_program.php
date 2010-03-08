@@ -44,12 +44,13 @@ at the start of any season with the approval of the coach.  </p>
 </tr> 
 <tr valign="top">
   <th>Weekdays</th> 
-  <td>Mon, Wed, Thurs  <br> 
+  <td>Mon, Wed, Thurs  <br/> 
   6:30 - 8:00 p.m.</td> 
-  <td>Mon, Wed, Fri  <br> 
+  <td>Mon, Wed, Fri  <br/> 
   6:30 - 8:00 p.m.</td> 
-  <td>Mon, Wed, Thurs  <br> 
-  6:30 - 8:00 p.m.</td></tr> 
+  <td>Mon, Wed, Thurs  <br/> 
+  6:30 - 8:00 p.m.</td>
+</tr>
 <tr valign="top">
   <th>Dues</th> 
   <td>$200</td> 
@@ -61,11 +62,11 @@ at the start of any season with the approval of the coach.  </p>
 </tr> 
 <tr valign="top">
   <th>Additional Competitive Option</th> 
-  <td>Tues 6:30 - 8:00 p.m. <br> 
+  <td>Tues 6:30 - 8:00 p.m. <br/> 
   Sat 7:00 - 9:00 a.m.</td> 
-  <td>Tues 6:30 - 8:00 p.m. <br> 
+  <td>Tues 6:30 - 8:00 p.m. <br/> 
   Sat 7:00 - 9:00 a.m.</td> 
-  <td>Tues 6:30 - 8:00 p.m. <br> 
+  <td>Tues 6:30 - 8:00 p.m. <br/> 
   Sat 7:00 - 9:00 a.m.</td>
 </tr> 
 <tr valign="top">

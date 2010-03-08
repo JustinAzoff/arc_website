@@ -73,29 +73,30 @@ a good communicator.
   <th>Dates</th> 
   <td>March 15 - May 30</td> 
   <td>May 31 - August 21</td> 
-  <td>August 23 - October 31</td></tr> 
+  <td>August 23 - October 31</td>
+</tr>
 <tr valign="top">
   <th>Weekdays</th> 
-  <td>Mon-Fri  <br> 
+  <td>Mon-Fri  <br/> 
   4:15 - 6:00 p.m.</td> 
-  <td>Mon-Fri  <br> 
+  <td>Mon-Fri  <br/> 
   7:00-9:00 a.m.</td> 
-  <td>Mon-Fri  <br> 
+  <td>Mon-Fri  <br/> 
   4:15 - 6:00 p.m.</td>
 </tr> 
 <tr valign="top">
   <th>Weekend</th> 
-  <td>Sat <br> 
+  <td>Sat <br/> 
   9:00-11:00 a.m.</td> 
-  <td>Sat <br> 
+  <td>Sat <br/> 
   a.m.</td> 
-  <td>Sat <br> 
+  <td>Sat <br/> 
   9:00-11:00 a.m.</td>
 </tr> 
 <tr valign="top">
   <th>Rower Dues*</th> 
   <td>$450*</td> 
-  <td>$380*/$225*  <br>
+  <td>$380*/$225*  <br/>
   8 weeks/4 weeks</td> 
   <td>$450*</td></tr> 
 <tr valign="top">

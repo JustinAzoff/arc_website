@@ -4,7 +4,7 @@ $title = "Collegiate Rowers";
 include("header.inc");
 ?>
 <div id="main">
-<h1> <?= $title ?>
+<h1> <?= $title ?> </h1>
 
 <p>
 If you are a collegiate rower who wishes to join us for the summer session, ARC

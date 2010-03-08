@@ -50,6 +50,7 @@ based on placement in each race event.
 
 
 <h2>Albany Rowing Center</h2>
+<p>
 Founded in 1985, the Albany Rowing Center, located on the Hudson River in
 downtown Albany, is a 501(c)(3) not-for-profit organization committed to
 providing recreational and competitive rowing opportunities for both youth and
@@ -106,7 +107,8 @@ Trophy Level Race Sponsor benefits include - </p>
 <h3> $350 to $499 - Medal Level Race Sponsors</h3>
 <p>
 Individuals/businesses contributing from $350 to $499 will be named Race Sponsors at the Medal Level.  
-Medal Level Race Sponsor benefits include - </p>
+Medal Level Race Sponsor benefits include -
+</p>
 <ul>
     <li> Named as individual race event sponsor </li>
     <li> Thanked in the regatta program </li>
@@ -128,7 +130,7 @@ Medal Level Race Sponsor benefits include - </p>
 <h3> $250 to $349 - Ribbon Level Race Sponsors </h3>
 <p> Individuals/businesses contributing from $250 to $349 will be named Race Sponsors at the Ribbon Level.
 Ribbon Level Race Sponsor benefits include -  </p>
-
+<ul>
     <li> Named as individual race event sponsor </li>
     <li> Thanked in the regatta program </li>
     <li> Half-page ad in regatta program </li>

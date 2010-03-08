@@ -19,36 +19,40 @@ Masters Regatta in St. Catharines, Ontario, in September.
 <table border="2" cellspacing="0"> 
 <tr valign="top">
   <td></td> 
-  <th>Spring</font></th> 
-  <th>Summer</font></th> 
-  <th>Fall</font></th>
+  <th>Spring</th> 
+  <th>Summer</th> 
+  <th>Fall</th>
 </tr> 
 <tr valign="top">
   <th>Dates</th> 
   <td>March 15 - May 30</td> 
   <td>May 31 - August 21</td> 
-  <td>August 23 - October 31</td></tr> 
+  <td>August 23 - October 31</td>
+</tr>
 <tr valign="top">
   <th>Weekdays</th> 
-  <td>Mon-Fri  <br> 
+  <td>Mon-Fri  <br/> 
   5:30 - 7:00 a.m.</td> 
-  <td>Mon-Fri  <br> 
+  <td>Mon-Fri  <br/> 
   5:30 - 7:00 a.m.</td> 
-  <td>Mon-Fri  <br> 
-  5:30 - 7:00 a.m.</td></tr> 
+  <td>Mon-Fri  <br/> 
+  5:30 - 7:00 a.m.</td>
+</tr>
 <tr valign="top">
   <th>Weekend</th> 
-  <td>Sat <br> 
+  <td>Sat <br/> 
   7:00-9:00 a.m.</td> 
-  <td>Sat <br> 
+  <td>Sat <br/> 
   7:00-9:00 a.m.</td> 
-  <td>Sat <br> 
-  7:00-9:00 a.m.</td></tr> 
+  <td>Sat <br/> 
+  7:00-9:00 a.m.</td>
+</tr>
 <tr valign="top">
   <th>Dues*</th> 
   <td>$365*</td> 
   <td>$375*</td> 
-  <td>$365*</td></tr> 
+  <td>$365*</td>
+</tr> 
 </table> 
 <p>
 * Regatta fees are not included in dues. See Virtual Racing Account information below.

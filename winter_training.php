@@ -99,10 +99,11 @@ for the listserv using the box below.
   </td></tr>
   <form action="http://groups.google.com/group/arc-winter-training-group/boxsubscribe">
   <tr><td style="padding-left: 5px;">
-  Email: <input type=text name=email>
-  <input type=submit name="sub" value="Subscribe">
+  Email: <input type=text name=email/>
+  <input type=submit name="sub" value="Subscribe"/>
   </td></tr>
 </form>
+</table>
 
 
 </div>

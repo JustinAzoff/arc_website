@@ -39,9 +39,9 @@ Program</a> at the start of any season with the approval of the coach.
 </tr> 
 <tr valign="top">
   <th>Weekdays</th> 
-  <td>Mon, Wed, Fri  <br> 
+  <td>Mon, Wed, Fri  <br/> 
   6:30 - 8:00 p.m.</td> 
-  <td>Mon, Wed, Thurs  <br> 
+  <td>Mon, Wed, Thurs  <br/> 
   6:30 - 8:00 p.m.</td>
 </tr>
 <tr valign="top">
