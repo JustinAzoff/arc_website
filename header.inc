@@ -31,7 +31,7 @@
 </li>
 <li> <? header_link("hoh.php", "Head of the Hudson") ?>
 <ul>
-<li> <? header_link("hoh_race_sponsor_fact_sheet.php", "Sponsor the Hoh") ?>
+<li> <? header_link("hoh_race_sponsor_fact_sheet.php", "Sponsor the Hoh") ?> </li>
 </ul>
 </li>
 <li> <? header_link("docs.php", "Forms &amp; Documents") ?> </li>
