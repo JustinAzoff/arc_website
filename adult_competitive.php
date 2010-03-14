@@ -1,6 +1,7 @@
 
 <? 
 $title = "Adult Competitive";
+$header_image_tag="adults";
 include("header.inc");
 ?>
 <div id="main">

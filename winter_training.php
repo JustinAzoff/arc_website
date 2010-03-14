@@ -1,6 +1,7 @@
 
 <? 
 $title = "Winter Training";
+$header_image_tag="winter";
 include("header.inc");
 ?>
 <div id="main">

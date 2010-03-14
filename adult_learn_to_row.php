@@ -1,5 +1,6 @@
 <? 
 $title = "Adult Learn to Row";
+$header_image_tag="adults";
 include("header.inc");
 ?>
 <div id="main">

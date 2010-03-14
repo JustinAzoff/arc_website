@@ -13,8 +13,14 @@
 <a href="#content">Jump to main content</a>
 </p>
 
+<?php
+    require_once("images.inc");
+    if(!isset($header_image_tag))
+        $header_image_tag="global";
+?>
+
 <div id="header">
-<img src="/logo_cropped.jpg" alt="Albany Rowing Center, Albany New York" />
+<img src="/header_images/<?=random_image_for_tag($header_image_tag)?>" alt="Albany Rowing Center, Albany New York" />
 </div>
 
 <div id="navcontainer">

@@ -1,6 +1,7 @@
 
 <? 
 $title = "Junior Rowing";
+$header_image_tag="juniors";
 include("header.inc");
 ?>
 <div id="main">
