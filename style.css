@@ -22,6 +22,17 @@ dt {
     font-weight: bold;
 }
 
+table.thin {
+    border: 1px solid black;
+    border-spacing: 1px;
+    border-collapse:collapse;
+}
+table.thin td {
+    border: 1px solid black;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
 
 
 /*nav stuff */

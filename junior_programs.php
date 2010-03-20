@@ -63,6 +63,8 @@ a good communicator.
 
 
 <h2>2010 Dates and Dues</h2> 
+<h3><a href="juniors_2010_schedule.php">Juniors Schedule for 2010</a></h3>
+
 <table border="2" cellspacing="0"> 
 <tr valign="top">
   <td> </td> 
@@ -72,16 +74,18 @@ a good communicator.
 </tr> 
 <tr valign="top">
   <th>Dates</th> 
-  <td>March 15 - May 30</td> 
-  <td>May 31 - August 21</td> 
-  <td>August 23 - October 31</td>
+  <td>March 15 - May 31</td> 
+  <td>June 21 - August 9</td> 
+  <td>August 23 - November 5</td>
 </tr>
 <tr valign="top">
   <th>Weekdays</th> 
   <td>Mon-Fri  <br/> 
   4:15 - 6:00 p.m.</td> 
-  <td>Mon-Fri  <br/> 
-  7:00-9:00 a.m.</td> 
+  <td>
+  Mon-Fri <br/>
+  4:15 - 6:00 p.m. until June 26,
+  then 7:00-9:00 a.m. daily</td> 
   <td>Mon-Fri  <br/> 
   4:15 - 6:00 p.m.</td>
 </tr> 
@@ -90,7 +94,7 @@ a good communicator.
   <td>Sat <br/> 
   9:00-11:00 a.m.</td> 
   <td>Sat <br/> 
-  a.m.</td> 
+  7:00-9:00 a.m.</td> 
   <td>Sat <br/> 
   9:00-11:00 a.m.</td>
 </tr> 
@@ -105,6 +109,12 @@ a good communicator.
   <td>$100*</td> 
   <td>$100*</td> 
   <td>$100*</td>
+</tr> 
+<tr valign="top">
+  <th>Regatta Fee</th> 
+  <td>$75</td> 
+  <td>TBD</td> 
+  <td>$75</td>
 </tr> 
 </table> 
 <p>* Regatta fees are not included in dues.</p>
@@ -146,9 +156,33 @@ Please mail completed registration forms to:
     <li> General information - <a href="mailto:info@albanyrowingcenter.org">info@albanyrowingcenter.org</a>  </li>
 </ul>
 
-<h2> Regatta Schedule </h2>
-<ul>
-    <li> Details to be announced shortly</li>
-</ul>
+<h2> Planned Regatta Schedule </h2>
+
+<h3> Spring </h3>
+
+<table class="thin">
+<tr><td>Emma Willard                </td><td> April 10</td></tr>
+<tr><td>Saratoga Invitational       </td><td> April 24 &amp; 25</td></tr>
+<tr><td>Sectionals (Niskayuna)      </td><td> May 1 &amp; 2 </td></tr>
+<tr><td>States (Saratoga)           </td><td> May 8 &amp; 9</td></tr>
+<tr><td>Northeast Regional          </td><td> May 15 &amp; 16</td></tr>
+<tr><td>Pittsford                   </td><td> May 29 &amp; 30</td></tr>
+<tr><td>National Learn to Row  Day  </td><td> June 5</td></tr>
+</table>
+
+<h3> Summer </h3>
+<table class="thin">
+<tr><td> Independence Day (Philly)   </td><td> July 2 -  4  </td></tr>
+<tr><td> Canadian Henley (Ontario)   </td><td> August 2 - 9 </td></tr>
+</table>
+
+<h3> Fall </h3>
+<table class="thin">
+<tr><td> Head of the Hudson    </td><td>   September 25 </td> </tr>
+<tr><td> Housatonic            </td><td>   October 9  </td> </tr>
+<tr><td> Head of the Charles   </td><td>   October 23 &amp; 24 </td> </tr>
+<tr><td> Head of the Fish      </td><td>   October 30 &amp; 31 </td> </tr>
+</table>
+
 </div>
 <? include("footer.inc"); ?>
