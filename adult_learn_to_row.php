@@ -4,78 +4,74 @@ $header_image_tag="adults";
 include("header.inc");
 ?>
 <div id="main">
-<h1> Adult Learn to Row 2009 </h1>
+<h1> Adult Learn to Row 2010 </h1>
 
 <p>
 This program is for adults interested in learning the basic techniques and
 styles of sculling and sweep rowing. The program is a low impact sport
-available to adults of all athletic levels. We offer four evening sessions of
-four weeks each. Participants may take one, several or all scheduled sessions.
-To reserve a seat for a session, please see the registration instructions
-below.
+available to adults of all athletic levels. We offer five evening sessions of
+two weeks each. The two week(10 day) program includes both instruction on land
+and learning basic rowing technique on the water. On water activities are
+dependent on weather and river conditions. After completing the basic two week
+program, those interested in continuing to row will join the adult novice
+program.
 </p>
 
-<p>
-To advance to rowing in other ARC programs, you need to participate in at least
-one learn to row session. Advancement to the adult coached/intermediate program
-is dependent upon the coach's assessment of your skill level. If you are not
-quite ready after your first month, you may register for one or more two week
-sessions until advanced by the coach.
-</p>
-
-        
-            
 <h2> Prerequisite </h2>
-                
+
 <p>
-You must pass an ARC-organized swim test at the Albany Bath House. A fee of
-$1.00 will be collected payable to the Albany Bath House.
-
-The swim test is a simple test designed to make sure you can swim a short
-distance, tread water and put on a life jacket thrown to you in the event that
-a boat flipped over. This rarely happens
-
+You must be able to swim in order to participate in any ARC program.
+Participants must complete a swimmer affirmation form certifying that they are
+able to tread water for 10 minutes and swim a distance of 100 yards (4 pool
+laps) without stopping. The coach's launch is equipped with life jackets for
+each participant in the event that a rower goes overboard. All participants
+must view and understand the USRowing Safety video which is shown on the first
+night of practice.
 </p>
 
 <h2> Session Dates and Practice Times </h2>
+<p>
+Evenings: Monday through Friday at 6:30 - 8:00 p.m.  Make up dates will be
+scheduled for holidays and weather cancellations. Two on land days are optional
+but participants are encouraged to attend each night.  Membership Dues are $175
+for the 10 day session. 
+</p>
 
-<ul>
-    <li> Session I   -    May 4 - May 29       </li>
-    <li> Session II  -    June 1 - June 26     </li>
-    <li> Session III -    July 6 - July 31     </li>
-    <li> Session IV  -    August 3 - August 28 </li>
-</ul>
-
-Monday, Wednesday and Friday - 6:30 - 8:00 p.m. Makeup dates are scheduled to
-replace holidays and may be on Tuesday or Thursday.
-                    
+<table class="thin">
+<tr> <th>Session</th> <th>Dates</th> </tr>
+<td>1</td> <td> May 10th - May 21st </td> </tr>
+<td>2</td> <td> June 1st - June 11th </td> </tr>
+<td>3</td> <td> June 21st - July 2nd </td> </tr>
+<td>4</td> <td> July 12th - July 23rd </td> </tr>
+<td>5</td> <td> August 2nd - August 13th </td> </tr>
+</table>
 
 <h2> Coach </h2>
 
-Kathy Tolcser
-    
-<h2> Fees </h2>
-
-$195 per monthly session; $90 per two week session after completing one month.
-            
-<h2> Registration </h2>
-    
-<!-- <a href="http://get.adobe.com/reader/?promoid=BUIGO"><img id="Picture5" height="39" width="158" src="../assets/images/get_adobe_reader.png" border="0" alt="get_adobe_reader" title="get_adobe_reader"></a> -->
-    
-<p>
-Registration for Adult Learn to Row at Albany Rowing Center is simple. Please
-complete the <a href="/docs/2009_USRA_Waiver.pdf">USRA Waiver</a> and the
-<a href="/docs/L2R_Adult Reg_09.pdf">Adult Learn to Row Reqistration</a> and mail to: </p>
-
-<pre>
-    Kathy Tolcser   
-    41 Berzin Road  
-    Nassau, NY 12123
-</pre>
+<p> Jenny Wiegert </p>
 
 <h2> Questions ? </h2>
 
-<p><a href="mailto:learn2row@albanyrowingcenter.org">learn2row@albanyrowingcenter.org</a></p>
+<p>
+Please contact
+<a href="mailto:learn2row@albanyrowingcenter.org">learn2row@albanyrowingcenter.org</a>
+</p>
+<p> <a href="/docs/LTR brochure.2010.04.pdf">Learn to Row Brochure</a> </p>
+
+    
+<h2> Registration </h2>
+    
+<p>
+Registration will be limited to 12 participants for each session. Register now
+to reserve your seat.  To register, please complete the <a href="/docs/2010%20Adult Learn to Row Packet.pdf">registration packet</a> and mail to: 
+
+<pre>
+    Adult LTR Program
+    Albany Rowing Center
+    PO Box 857
+    Albany, NY 12201
+</pre>
+</p>
 
 
 </div>

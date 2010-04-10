@@ -27,7 +27,7 @@ table.thin {
     border-spacing: 1px;
     border-collapse:collapse;
 }
-table.thin td {
+table.thin td, table.thin th {
     border: 1px solid black;
     padding-left: 0.5em;
     padding-right: 0.5em;
