@@ -17,6 +17,7 @@ Important forms and documents for Albany Rowing Center. Forms require Adobe Acro
 
 <h2>Form For Juniors</h2>
 <ul>
+    <li><a href="/docs/2010 LTR Summer Camp Reg Form.pdf">2010 Summer Camp Registration Packet</a></li>
     <li><a href="/docs/Spring 10 Returning Registration Forms.pdf">Spring 10 Returning Registration Forms</a></li>
     <li><a href="/docs/Spring 10 NEW rower Reg Forms.pdf">Spring 10 NEW rower Reg Forms</a></li>
     <li><a href="/docs/Junior Swim Test Certification Form.pdf">Junior Swim Test Certification Form</a></li>

@@ -65,11 +65,8 @@ $250 per session (A discount will be offered for those who would like to continu
 <h2> Registration </h2>
 
 <p>
-Registration for Junior Learn to Row at Albany Rowing Center is simple. Forms and other information will be available shortly. For information on this program please contact
-<a href="mailto:juniorsrowing@albanyrowingcenter.org">juniorsrowing@albanyrowingcenter.org</a> or
-<a href="mailto:info@albanyrowingcenter.org">info@albanyrowingcenter.org</a>
-
-</p>
+Registration for Junior Learn to Row at Albany Rowing Center is simple.
+Please complete the <a href="/docs/2010 LTR Summer Camp Reg Form.pdf">2010 Summer Camp Registration Packet</a> and mail to:
 
 <pre>
     Organization of Adirondack Rowers and Scullers
@@ -77,6 +74,12 @@ Registration for Junior Learn to Row at Albany Rowing Center is simple. Forms an
     Albany Rowing Center C/O Bierman
     111 Read Road, Glenmont, NY 12077 
 </pre>
+
+For information on this program please contact
+<a href="mailto:juniorsrowing@albanyrowingcenter.org">juniorsrowing@albanyrowingcenter.org</a> or
+<a href="mailto:info@albanyrowingcenter.org">info@albanyrowingcenter.org</a>
+</p>
+
 
 </div>
 <? include("footer.inc"); ?>
