@@ -15,22 +15,16 @@ ARC rowers represent all ages (from middle school students on up) and a
 wide range of rowing abilities (from novice to experienced). 
 </p>
 
-<h1>Free Learn to Row day!</h1>
+<h1>Learn to Row - Discover Your Next Passion!</h1>
 <p>
-<img src="2010_ARC_Adult_LtRflyer2_cropped.jpg"
-alt="Albany Rowing Center invites you to Learn to Row
-When:
-    Saturday, April 24th from 8am until noon.
-Where:
-    Albany Rowing Center at the Corning Preserve, Albany(public boat launch).
-Why:
-    Get a full body workout!
-    Meet new people!
-    Have fun!" />
-<br/>
-If you have a great time at the Learn to Row day, you can continue rowing by signing up for the <a
-href="adult_learn_to_row.php">Adult Learn to Row program</a>.  </p>
-        
+<center>
+<img src="ARC Learn to Row 2010.jpeg"> <br/>
+Adult Learn to Row Session begins May 10, 2010 6:30 to 8:00 PM <br/>
+
+<a href="/adult_learn_to_row.php">Click here for More Information and Sign up Forms</a> <br/>
+<a href="mailto:learn2row@albanyrowingcenter.org">Contact learn2row@albanyrowingcenter.org</a>
+</center>
+</p>
 
 <h2>Rowing Programs and Camps</h2>
 <table border="0" cellspacing="10" cellpadding="5">
