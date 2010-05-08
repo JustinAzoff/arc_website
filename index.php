@@ -19,7 +19,7 @@ wide range of rowing abilities (from novice to experienced).
 <p>
 <center>
 <img src="ARC Learn to Row 2010.jpeg"> <br/>
-Adult Learn to Row Session begins May 10, 2010 6:30 to 8:00 PM <br/>
+Two-week Adult Learn to Row classes begin May 10, 2010 6:30 to 8:00 PM <br/>
 
 <a href="/adult_learn_to_row.php">Click here for More Information and Sign up Forms</a> <br/>
 <a href="mailto:learn2row@albanyrowingcenter.org">Contact learn2row@albanyrowingcenter.org</a>
