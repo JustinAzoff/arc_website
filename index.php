@@ -15,6 +15,35 @@ ARC rowers represent all ages (from middle school students on up) and a
 wide range of rowing abilities (from novice to experienced). 
 </p>
 
+<h1>State Champions!</h1>
+<p>
+<a href="http://poststar.com/sports/article_d2ac0300-5beb-11df-90df-001cc4c002e0.html?mode=story">
+ARC's Girls Varsity 8 just won the NYS championship!</a>  They came in first
+beating out all Girls Varsity 8's in the State.  They will now move onto the
+National Championship in Ohio in June.  
+<a href="http://poststar.com/sports/article_d2ac0300-5beb-11df-90df-001cc4c002e0.html?mode=story">
+<img border=0 align="center" src="2010 State Champs.jpg" />
+</a>
+</p>
+
+<h2>The 2010 NYS Champions:</h2>
+<ul>
+<li>
+Bethlehem H.S.
+<ul>
+<li> Abbey Bierman (coxwain) Gr. 10 </li>
+<li> Erin Delaney  Gr. 10 </li>
+<li> Liz Helmer Gr. 12 </li>
+<li> Emilie Johnston  Gr. 10 </li>
+<li> Meaghan Keefe  Gr. 11 </li>
+<li> Kristen Manning  Gr. 10 </li>
+<li> Maggie Morrell   Gr. 11 </li>
+</ul></li>
+<li> Completeing the 8 was Sarah Gannon of Albany Academy and Becca Herron of Catholic Central H.S. </li>
+</ul>
+
+
+
 <h1>Learn to Row - Discover Your Next Passion!</h1>
 <p>
 <center>
