@@ -75,7 +75,7 @@ a good communicator.
 <tr valign="top">
   <th>Dates</th> 
   <td>March 15 - May 31</td> 
-  <td>June 21 - August 9</td> 
+  <td>June 14 - July 30</td> 
   <td>August 23 - November 5</td>
 </tr>
 <tr valign="top">
@@ -94,15 +94,15 @@ a good communicator.
   <td>Sat <br/> 
   9:00-11:00 a.m.</td> 
   <td>Sat <br/> 
-  7:00-9:00 a.m.</td> 
+  9:00-11:00 a.m.</td> 
   <td>Sat <br/> 
   9:00-11:00 a.m.</td>
 </tr> 
 <tr valign="top">
   <th>Rower Dues*</th> 
   <td>$450*</td> 
-  <td>$380*/$225*  <br/>
-  8 weeks/4 weeks</td> 
+  <td>$380*<br/>
+  7 weeks</td> 
   <td>$450*</td></tr> 
 <tr valign="top">
   <th>Coxswain Dues*</th> 
@@ -113,7 +113,7 @@ a good communicator.
 <tr valign="top">
   <th>Regatta Fee</th> 
   <td>$75</td> 
-  <td>TBD</td> 
+  <td>Costs for Henley will be determined prior to regatta</td> 
   <td>$75</td>
 </tr> 
 </table> 
