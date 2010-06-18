@@ -8,7 +8,7 @@ include("header.inc");
 
 <p>
 The Albany Rowing Center Junior Summer Camp Program offers instruction in
-rowing  to interested youth entering grades 6 and above. The Learn to Row
+rowing  to interested youth who have completed seventh grade. The Learn to Row
 Program permits young athletes to learn about the sport of rowing through
 participation. Students will learn water and boat safety, stroke mechanics on
 the ergometer (rowing machine) and the basic techniques of sweep rowing and
