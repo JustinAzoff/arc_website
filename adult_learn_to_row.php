@@ -43,7 +43,7 @@ for the 10 day session.
 <td>2</td> <td> June 1st - June 11th </td> </tr>
 <td>3</td> <td> June 21st - July 2nd </td> </tr>
 <td>4</td> <td> July 12th - July 23rd </td> </tr>
-<td>5</td> <td> August 2nd - August 13th </td> </tr>
+<td>5</td> <td> Canceled </td> </tr>
 </table>
 
 <h2> Coach </h2>
