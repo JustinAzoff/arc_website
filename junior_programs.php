@@ -128,12 +128,12 @@ a good communicator.
 
 <h2>Registration</h2>
 <ul>
-    <li><a href="/docs/Summer 2010 Reg forms.doc">Summer 2010 Registration form</a></li>
+    <li><a href="/docs/Fall 2010 NEW Rower reg forms.doc">Fall 2010 NEW Rower Registration Packet</a></li>
 </ul>
 
 <p>
-Spring registrations are due June 14.  Rowers will not be allowed to row until
-registration materials and payment are submitted. 
+Fall registrations are due August 23.
+Rowers will not be allowed to row until registration materials and payment are submitted. 
 </p>
 
 <p>
