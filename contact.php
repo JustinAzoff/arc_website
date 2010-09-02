@@ -32,12 +32,12 @@ railroad bridge, at the Public Boat Launch.
 
 <h3> Junior Programs </h3>
 <ul>
-    <li>Junior Programs head coach - <a href="mailto:mike.macminn@gmail.com">mike.macminn@gmail.com</a></li>
+    <li>Junior Programs head coach - <a href="mailto:mike.macminn@gmail.com">Mike Macminn</a></li>
 </ul>
 
 <h3> Head of the Hudson Regatta: </h3>
 <ul>
-    <li>Head of the Hudson Regatta - <a href="mailto:jrtauzel@yahoo.com">jrtauzel@yahoo.com</a></li>
+    <li>Head of the Hudson Regatta - <a href="mailto:warnermichael09@gmail.com">Michael Warner</a></li>
 </ul>
     
 
