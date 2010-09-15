@@ -13,15 +13,8 @@
 <a href="#content">Jump to main content</a>
 </p>
 
-<?php
-    require_once("images.inc");
-    if(!isset($header_image_tag))
-        $header_image_tag="global";
-?>
-
 <div id="header">
-<img src="/header_images/<?=random_image_for_tag($header_image_tag)?>" alt="Albany Rowing Center, Albany New York" />
-</div>
+<img src="/images/header.jpg"" alt="Albany Rowing Center, Albany New York" />
 
 <div id="navcontainer">
 <ul>
@@ -42,7 +35,7 @@
 </li>
 <li> <? header_link("docs.php", "Forms &amp; Documents") ?> </li>
 <li> <? header_link("contact.php", "Contact Us") ?> </li>
-<li> <? header_link("directions.php", "Driving Directions") ?> </li>
+<!-- <li> <? header_link("directions.php", "Driving Directions") ?> </li> -->
 </ul>
 </div>
 <a name="content"></a>
@@ -56,3 +49,4 @@ function header_link($href, $txt){
     printf('<a href="/%s" %s>%s</a>', $href, $active, $txt);
 }
 ?>
+<div id="wrap">
