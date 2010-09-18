@@ -135,6 +135,12 @@ background-color: #73b2e8;
 width: 9.2em;
 }
 
+.slideshow {
+width: 480px;
+height: 320px;
+float: right;
+}
+
 
 /* for screen readers and cell phones */
 .hidden

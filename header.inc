@@ -5,7 +5,8 @@
 
 <link rel="stylesheet" type="text/css" href="/style.css" />
 <link rel="stylesheet" type="text/css" media="print" href="/print.css" />
-
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cross-slide.min.js"></script>
 </head>
 <body>
 
@@ -38,8 +39,11 @@
 <!-- <li> <? header_link("directions.php", "Driving Directions") ?> </li> -->
 </ul>
 </div>
+</div>
 <a name="content"></a>
-<?
+<?php
+require_once("slideshow.inc");
+
 function header_link($href, $txt){
     if (basename($_SERVER["REQUEST_URI"]) == $href){
         $active = 'class="active"';
