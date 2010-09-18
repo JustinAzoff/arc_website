@@ -45,15 +45,15 @@ Bethlehem H.S.
 
 
 <h1>Learn to Row - Discover Your Next Passion!</h1>
-<p>
 <center>
+<p>
 <img src="ARC Learn to Row 2010.jpeg"> <br/>
 Two-week Adult Learn to Row classes begin May 10, 2010 6:30 to 8:00 PM <br/>
 
 <a href="/adult_learn_to_row.php">Click here for More Information and Sign up Forms</a> <br/>
 <a href="mailto:learn2row@albanyrowingcenter.org">Contact learn2row@albanyrowingcenter.org</a>
-</center>
 </p>
+</center>
 
 <h2>Rowing Programs and Camps</h2>
 <table border="0" cellspacing="10" cellpadding="5">

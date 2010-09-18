@@ -45,7 +45,7 @@
 <li> <? header_link("directions.php", "Driving Directions") ?> </li>
 </ul>
 </div>
-<a name="content"/>
+<a name="content"></a>
 <?
 function header_link($href, $txt){
     if (basename($_SERVER["REQUEST_URI"]) == $href){
