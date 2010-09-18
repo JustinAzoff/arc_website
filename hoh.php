@@ -10,6 +10,7 @@ include("header.inc");
 
 
 <h2>The Head of the Hudson Regatta</h2>
+<?php insert_slideshow($hoh_slideshow); ?>
 <p>
 Each year in the fall, the Albany Rowing Center hosts the Head of the Hudson
 Regatta. Typical of other "head" races that are held throughout the country in
