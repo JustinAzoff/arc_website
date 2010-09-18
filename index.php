@@ -39,7 +39,7 @@ Bethlehem H.S.
 <li> Kristen Manning  Gr. 10 </li>
 <li> Maggie Morrell   Gr. 11 </li>
 </ul></li>
-<li> Completeing the 8 was Sarah Gannon of Albany Academy and Becca Herron of Catholic Central H.S. </li>
+<li> Completing the 8 was Sarah Gannon of Albany Academy and Becca Herron of Catholic Central H.S. </li>
 </ul>
 
 
