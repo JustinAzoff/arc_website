@@ -8,48 +8,6 @@ include("header.inc");
 
 <h2> The 2010 Head of the Hudson will be held on Saturday September 25th!  </h2>
 
-<ul>
-    <li> <a href="http://www.regattacentral.com/regatta/results/1369.pdf">2009 Head of the Hudson Results</a> </li>
-    <li> <a href="http://www.regattacentral.com/regatta/results/798.pdf">2008 Head of the Hudson Results</a> </li>
-</ul>
-
-<h2>Thank You to the Sponsors of the 2009 Head of the Hudson!</h2>
-<h3>Regatta Sponsors</h3>
-<ul>
-    <li><a href="http://www.albany.org">The City of Albany</a></li>
-    <li><a href="http:///www.stpetershealthcare.org">St. Peter's Cardiac &amp; Vascular Center</a>
-        - The Science of Medicine. The Compassion to Heal.</li>
-</ul>
-
-<h3>Race Sponsors</h3>
-<ul>
-
-    <li><a href="http://www.albany.org">Hon. Gerald D. Jennings, Mayor, City of Albany</a></li>
-
-    <li><a href="http://www.evansale.com">Albany Pump Station</a>
-        - Serious beer. Delicious food. Incredible space.</li>
-
-    <li><a href="www.allu.com">AllU Activewear</a>
-        - Making someone's favorite shirt since 1986.</li>
-
-    <li>Ambrosino Design, Inc
-        - We'll help you make that first impression the right one.</li>
-
-    <li><a href="http://www.cdphp.com">CDPHP</a>
-        - A plan for life</li>
-
-    <li><a href="http:///www.clarionhotelalbany.com">Clarion Hotel of Albany</a>
-        - Visit Scenarios Restaurant at the Clarion. A relaxed and comfortable way to end your day.</li>
-
-    <li><a href="http://www.hrfmlaw.com">Heslin Rothenberg Farley &amp; Mesiti PC</a>
-        - Protecting new ideas - from concept to commercialization.</li>
-
-    <li><a href="http://www.MosmenManning.com">Mosmen and Manning</a>
-        - The Perfect Fit for Your Move</li>
-
-    <li><a href="http://www.stewartsshops.com">Stewart's Shops</a>
-        - We are closer to you. </li>
-</ul>
 
 <h2>The Head of the Hudson Regatta</h2>
 <p>
@@ -84,11 +42,32 @@ not-for-profit organization. Contributions are tax-deductible to the extent
 allowed by law. 
 </p>
 
+<h2>Changes to this year's Head of the Hudson Regatta</h2>
+<p>
+This year, the twenty fourth in the series, we've made some changes to the
+event. We have shortened the usual 3 mile race to be just under 2 miles (3.2K)
+and it is much more spectator friendly, with viewing possible at every point
+along the course. Competing rowers begin at a start point just north of the I
+90 bridge, upstream of the Albany Rowing Center boathouse on the Hudson River
+and, one after the other, race south to finish at the amphitheater at the
+Corning Preserve.
+<p>
+
+<p>
+<a href="hoh_2009_race_sponsor_fact_sheet.php">Sponsor the 2010 Head of the Hudson Regatta</a>
+</p>
+
+<img style="float: right" src="images/FINALHOH24navyfront.png" />
 
 <h2> Related Documents </h2>
 <ul>
     <li><a href="/docs/head of the hudson brochure2009.pdf">2009 Fundraising brochure</a> </li>
-    <li><a href="hoh_2009_race_sponsor_fact_sheet.php">Sponsor, Supporter and Advertiser Fact Sheet</a></li>
+</ul>
+<h2>2009 Head of the Hudson</h2>
+<ul>
+    <li><a href="https://www.regattacentral.com/index.jsp?tab=regattas&amp;section=all_entries&amp;id=1369">Entries</a>
+    <li> <a href="http://www.regattacentral.com/regatta/results/1369.pdf">Results</a> </li>
+    <li><a href="hoh_2010_sponsors.php">Sponsors</a></li>
 </ul>
 
 <h2>2008 Head of the Hudson</h2>
