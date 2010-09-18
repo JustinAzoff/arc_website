@@ -4,6 +4,8 @@ $all_slideshow = explode(",", "DSC_0322.JPG,DS051007200050.jpg,DSC_5637LO.jpg,IM
 
 $hoh_slideshow = explode(",", "DS051012204327.jpg,DSC_5652LO.jpg,DS051007200050.jpg,DSC_0322.JPG,DS051007200327.jpg,DSC_5723LO.jpg,DS051012204654.jpg");
 
+$programs_slideshow = explode(",", "DSC_0322.JPG,DSC_0704_2.JPG,IMG_1260.JPG,IMG_7800.JPG");
+
 function insert_slideshow($show)
 {
     $path="/images/slideshow_images/";

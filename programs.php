@@ -4,6 +4,7 @@ include("header.inc");
 ?>
 <div id="main">
 <h1> Programs and Camps </h1>
+<?php insert_slideshow($programs_slideshow); ?>
         
 <h2>Adults</h2>
 <p> We offer competitive, intermediate, and recreational programs for
