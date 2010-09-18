@@ -13,22 +13,17 @@ include("header.inc");
 <p>
 Each year in the fall, the Albany Rowing Center hosts the Head of the Hudson
 Regatta. Typical of other "head" races that are held throughout the country in
-the fall, the Head of the Hudson is a three-mile race "against the clock." The
-Head of the Hudson is our premier event, bringing together hundreds of
-competitors from high schools, colleges and clubs from the Capital District,
-other areas of New York and surrounding states. The regatta consists of thirty
-or more different race events, in which adults, juniors and recreational
-rowers, both novice and experienced, may compete. Competing rowers begin at a
-start point three miles north of the Albany Rowing Center boathouse on the
-Hudson River in Albany and, one after the other, race south to finish just past
-the boathouse. The best finishing time in each race event determines the
-winner. Gold and silver medals are awarded to the first and second-place
-finishers in each race event, and special trophies are also awarded to winning
-teams of certain sponsored races. An All-Points Trophy is awarded at the end of
-the regatta to the team with the most points overall, based on placement in
-each race event.
+the fall, it is a race "against the clock." The Head of the Hudson is our
+premier event, bringing together hundreds of competitors from high schools,
+colleges, and clubs from the Capital District, other areas of New York, and
+surrounding states. The regatta consists of twenty different race events, in
+which adults, juniors and recreational rowers, both novice and experienced, may
+compete. The best finishing time in each race event determines the winner. Gold
+and silver medals are awarded to the first and second-place finishers in each
+race event, and special trophies are also awarded to winning teams of certain
+sponsored races. An All-Points Trophy is awarded at the end of the regatta to
+the team with the most points overall, based on placement in each race event.
 </p>
-
 <p>
 The regatta is both ARC's coveted home regatta as well as the focal point for
 our fall fundraising drive. Founded in 1985, the Albany Rowing Center, located
