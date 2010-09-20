@@ -3,6 +3,12 @@
 $title = "Head of the Hudson Regatta";
 include("header.inc");
 ?>
+
+<div id="sidebar">
+<?php insert_slideshow($hoh_slideshow); ?>
+<img src="images/FINALHOH24navyfront.png" />
+</div>
+
 <div id="main">
 <h1> <?= $title ?> </h1>
 
@@ -10,7 +16,6 @@ include("header.inc");
 
 
 <h2>The Head of the Hudson Regatta</h2>
-<?php insert_slideshow($hoh_slideshow); ?>
 <p>
 Each year in the fall, the Albany Rowing Center hosts the Head of the Hudson
 Regatta. Typical of other "head" races that are held throughout the country in
@@ -53,7 +58,6 @@ Corning Preserve.
 <a href="hoh_2009_race_sponsor_fact_sheet.php">Sponsor the 2010 Head of the Hudson Regatta</a>
 </p>
 
-<img style="float: right" src="images/FINALHOH24navyfront.png" />
 
 <h2> Related Documents </h2>
 <ul>

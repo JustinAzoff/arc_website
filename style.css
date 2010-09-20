@@ -41,6 +41,12 @@ margin-right: auto;
 /* min-width: 20em;
 max-width: 40em; */
 padding: 18px;
+width: 480px;
+}
+#sidebar
+{
+float: right;
+padding: 18px;
 }
 
 
@@ -161,9 +167,6 @@ width: 9.2em;
 .slideshow {
 width: 480px;
 height: 320px;
-float: right;
-margin-left: 1em;
-margin-bottom: 1em;
 border: 1px solid black;
 }
 h1 { 
