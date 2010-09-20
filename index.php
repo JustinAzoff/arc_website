@@ -52,7 +52,7 @@ the graphic design associated with this year's Head of the Hudson Regatta.
 </p>
 
 <p>
-Julie Lewis, for taking most of the videos linked in the “Media” section in the
+Julie Lewis, for taking most of the videos linked in the "Media" section in the
 YouTube player, and for providing us a link to her blog <a href="http://ghostcoaching.blogspot.com/">Eat, Row, Sleep,Coaching Advice for Rowers and Scullers.</a></p>
 
 <p>
