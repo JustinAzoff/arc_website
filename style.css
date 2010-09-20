@@ -1,6 +1,6 @@
 body {
     width: 100%;
-    background-color: #ddddff;
+    background-color: #c0c0c0;
     margin: 0px;
     padding: 0px;0px
 }
@@ -97,11 +97,15 @@ text-transform: uppercase;
 #navcontainer li a.active
 {
     background-color: #ff9400;
+    background-image: url(/images/header_stripe_orange.jpg);
+    background-repeat repeat-x;
     color: black;
 }
 #navcontainer li a.active:hover
 {
     background-color: #ff9400;
+    background-image: url(/images/header_stripe_orange.jpg);
+    background-repeat repeat-x;
 }
 
 #navcontainer li a:hover
@@ -109,6 +113,8 @@ text-transform: uppercase;
 /* border-left-color: #1c64d1;
 border-right-color: #5ba3e0; */
     background-color: #ff9400;
+    background-image: url(/images/header_stripe_orange.jpg);
+    background-repeat repeat-x;
     color: black;
 }
 
