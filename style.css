@@ -56,7 +56,6 @@ table.thin td, table.thin th {
 border-right: 1px solid #000;
 border-top: 1px solid #000;
 font-family: Verdana, Lucida, Geneva, Helvetica, Arial, sans-serif;
-font-size: smaller;
 background-color: #292d59;
 color: #333;
 height:100%;
@@ -87,7 +86,7 @@ padding: 0.5em 1em;
 color: white;
 text-decoration: none;
 float: left;
-font-size: 12pt;
+font-size: 10pt;
 text-transform: uppercase;
 }
 #navcontainer li:last-child a
