@@ -2,7 +2,7 @@ body {
     width: 100%;
     background-color: #c0c0c0;
     margin: 0px;
-    padding: 0px;0px
+    padding: 0px;
 }
 #header
 {
@@ -31,6 +31,7 @@ padding: 1em;
 p
 {
 text-align: left;
+  font-size: 14px; 
 }
 
 dt {
@@ -86,7 +87,7 @@ padding: 0.5em 1em;
 color: white;
 text-decoration: none;
 float: left;
-font-size: 10pt;
+font-size: 12px;
 text-transform: uppercase;
 }
 #navcontainer li:last-child a
@@ -148,10 +149,24 @@ margin-left: 1em;
 margin-bottom: 1em;
 border: 1px solid black;
 }
+h1 { 
+  color: #233156;
+  font-size: 24px; 
+  line-height: 36px;
+  margin-bottom: 18px; 
+}
+h2 { 
+  font-size: 18px; 
+  line-height: 18px; 
+  margin-bottom: 18px;
+}
+h3 { 
+  font-size: 16px; 
+  line-height: 18px; 
+}
 
-
-h1 {
-color: #233156;
+ul, ol { 
+  margin-bottom: 18px; 
 }
 
 
