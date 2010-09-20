@@ -5,10 +5,9 @@ include("header.inc");
 <div id="main">
 
 
-<h1>About Us</h1>
+<h1>Welcome to Albany Rowing Center!</h1>
 <?php insert_slideshow($all_slideshow); ?>
 <p>
-<strong>Welcome to Albany Rowing Center!</strong>
 <p>
 Founded in 1985, the Albany Rowing Center, located on the Hudson River in
 downtown Albany, is committed to providing recreational and competitive rowing
