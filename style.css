@@ -1,3 +1,7 @@
+p,h1,h2,h3 {
+    margin: 0px;
+    padding: 0px;
+}
 body {
     width: 100%;
     background-color: #c0c0c0;
@@ -24,7 +28,7 @@ margin-right: auto;
 /* float: left; */
 /* min-width: 20em;
 max-width: 40em; */
-padding: 1em;
+padding: 18px;
 }
 
 
@@ -32,6 +36,7 @@ p
 {
 text-align: left;
   font-size: 14px; 
+  margin-bottom: 18px;
 }
 
 dt {
