@@ -8,7 +8,6 @@ include("header.inc");
 <h1>Welcome to Albany Rowing Center!</h1>
 <?php insert_slideshow($all_slideshow); ?>
 <p>
-<p>
 Founded in 1985, the Albany Rowing Center, located on the Hudson River in
 downtown Albany, is committed to providing recreational and competitive rowing
 opportunities for both youth and adults.  Albany Rowing Center (ARC) is a
