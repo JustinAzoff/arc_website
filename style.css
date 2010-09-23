@@ -124,6 +124,11 @@ padding-bottom: 12px;
     background-repeat: no-repeat;
     background-position: 50% 12px;
 }
+#navcontainer li a.active:hover,
+#navcontainer li a:hover
+{
+    color: #ff9300;
+}
 
 
 #navcontainer li li
