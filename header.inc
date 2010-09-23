@@ -15,7 +15,9 @@
 </p>
 
 <div id="header">
+<a href="/">
 <img src="/images/header.jpg"" alt="Albany Rowing Center, Albany New York" />
+</a>
 
 <div id="navcontainer">
 <ul>
