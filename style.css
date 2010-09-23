@@ -1,14 +1,30 @@
+p,h1,h2,h3 {
+    margin: 0px;
+    padding: 0px;
+    font-family: Helvetica, Arial, sans-serif;
+}
 body {
     width: 100%;
-    background-color: #ddddff;
+    background-color: #c0c0c0;
     margin: 0px;
-    padding: 0px;0px
+    padding: 0px;
 }
 #header
 {
     width: 1000px;
 text-align: center;
 display: block; margin-left: auto; margin-right: auto;
+}
+#footer
+{
+    height: 18px;
+    width: 1000px;
+    background-image: url(images/header_stripe_blue.jpg);
+    color: white;
+}
+#footer p{
+    text-align: right;
+    padding-right: 1em
 }
 
 #wrap {
@@ -24,13 +40,21 @@ margin-right: auto;
 /* float: left; */
 /* min-width: 20em;
 max-width: 40em; */
-padding: 1em;
+padding: 18px;
+width: 480px;
+}
+#sidebar
+{
+float: right;
+padding: 18px;
 }
 
 
 p
 {
 text-align: left;
+  font-size: 14px; 
+  margin-bottom: 18px;
 }
 
 dt {
@@ -55,7 +79,6 @@ table.thin td, table.thin th {
 {
 border-top: 1px solid #000;
 font-family: Verdana, Lucida, Geneva, Helvetica, Arial, sans-serif;
-font-size: smaller;
 background-color: #292d59;
 color: #333;
 float: right;
@@ -83,7 +106,7 @@ display: inline;
 color: white;
 text-decoration: none;
 float: left;
-font-size: 12pt;
+font-size: 12px;
 text-transform: uppercase;
 padding: 0.5em 1em;
 padding-top: 24px;
@@ -128,15 +151,28 @@ width: 9.2em;
 .slideshow {
 width: 480px;
 height: 320px;
-float: right;
-margin-left: 1em;
-margin-bottom: 1em;
 border: 1px solid black;
 }
+h1 { 
+  color: #233156;
+  font-size: 24px; 
+  line-height: 36px;
+  margin-bottom: 18px; 
+}
+h2 { 
+  color: #233156;
+  font-size: 18px; 
+  line-height: 18px; 
+  margin-bottom: 18px;
+}
+h3 { 
+  color: #233156;
+  font-size: 16px; 
+  line-height: 18px; 
+}
 
-
-h1 {
-color: #233156;
+ul, ol { 
+  margin-bottom: 18px; 
 }
 
 

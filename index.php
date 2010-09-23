@@ -2,13 +2,56 @@
 $title = "Home";
 include("header.inc");
 ?>
+<div id="sidebar">
+<?php insert_slideshow($all_slideshow); ?>
+
+<script src="http://www.gmodules.com/ig/ifr?url=http://bayareacoder.com/gogo/localweather/localweather.xml&up_yahooLastDate=&up_yahooData=&up_zip=12201&up_default=1&synd=open&w=308&h=293&title=Currently+in+Albany&border=%23ffffff%7C3px%2C1px+solid+%23999999&output=js"></script>
+
+
+<h3>Upcoming Regattas</h3>
+<table border="0">
+<tr>
+<td>September 11, 2010</td>
+<td>Home Scrimmage <br/> Albany, NY</td>
+</tr>
+
+<tr>
+<td>September 18, 2010</td>
+<td>Home Scrimmage <br/>Albany, NY</td>
+</tr>
+
+<tr>
+<td>September 25, 2010</td>
+<td>Head of the Hudson <br/>Albany, NY</td>
+</tr>
+
+<tr>
+<td>October 2, 2010</td>
+<td>Head of the Mohawk <br/>Niskayuna, NY</td>
+</tr>
+
+<tr>
+<td>October 9, 2010</td>
+<td>Head of the Housatonic <br/>Shelton, CT</td>
+</tr>
+
+<tr>
+<td>October 23 &amp; 24, 2010</td>
+<td>Head of the Charles <br/>Cambridge, MA</td>
+</tr>
+
+<tr>
+<td>October 31, 2010</td>
+<td>Head of the Fish <br/>Saratoga Springs, NY</td>
+</tr>
+
+</table>
+
+</div>
 <div id="main">
 
 
-<h1>About Us</h1>
-<?php insert_slideshow($all_slideshow); ?>
-<p>
-<strong>Welcome to Albany Rowing Center!</strong>
+<h1>Welcome to Albany Rowing Center!</h1>
 <p>
 Founded in 1985, the Albany Rowing Center, located on the Hudson River in
 downtown Albany, is committed to providing recreational and competitive rowing
@@ -52,7 +95,7 @@ the graphic design associated with this year's Head of the Hudson Regatta.
 </p>
 
 <p>
-Julie Lewis, for taking most of the videos linked in the “Media” section in the
+Julie Lewis, for taking most of the videos linked in the "Media" section in the
 YouTube player, and for providing us a link to her blog <a href="http://ghostcoaching.blogspot.com/">Eat, Row, Sleep,Coaching Advice for Rowers and Scullers.</a></p>
 
 <p>
