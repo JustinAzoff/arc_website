@@ -53,16 +53,14 @@ table.thin td, table.thin th {
 /*nav stuff */
 #navcontainer
 {
-border-right: 1px solid #000;
 border-top: 1px solid #000;
 font-family: Verdana, Lucida, Geneva, Helvetica, Arial, sans-serif;
 font-size: smaller;
 background-color: #292d59;
 color: #333;
-height:100%;
 float: right;
 width: 100%;
-background-image: url(/images/header_stripe_blue.jpg);
+background-image: url(/images/header_stripe_blue_orange.jpg);
 background-repeat repeat-x;
 }
 
@@ -82,36 +80,28 @@ display: inline;
 
 #navcontainer li a
 {
-border-right: 1px solid white;
-padding: 0.5em 1em;
 color: white;
 text-decoration: none;
 float: left;
 font-size: 12pt;
 text-transform: uppercase;
+padding: 0.5em 1em;
+padding-top: 24px;
 }
+
 #navcontainer li:last-child a
 {
-    border-right: none;
 }
 
-#navcontainer li a.active
-{
-    background-color: #ff9400;
-    color: black;
-}
-#navcontainer li a.active:hover
-{
-    background-color: #ff9400;
-}
-
+#navcontainer li a.active,
+#navcontainer li a.active:hover,
 #navcontainer li a:hover
 {
-/* border-left-color: #1c64d1;
-border-right-color: #5ba3e0; */
-    background-color: #ff9400;
-    color: black;
+    background-image: url(/images/orange_and_blue_arrow.gif);
+    background-repeat: no-repeat;
+    background-position: 50% 12px;
 }
+
 
 #navcontainer li li
 {
