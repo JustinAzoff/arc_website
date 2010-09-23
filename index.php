@@ -2,52 +2,6 @@
 $title = "Home";
 include("header.inc");
 ?>
-<div id="sidebar">
-<?php insert_slideshow($all_slideshow); ?>
-
-<script src="http://www.gmodules.com/ig/ifr?url=http://bayareacoder.com/gogo/localweather/localweather.xml&up_yahooLastDate=&up_yahooData=&up_zip=12201&up_default=1&synd=open&w=308&h=293&title=Currently+in+Albany&border=%23ffffff%7C3px%2C1px+solid+%23999999&output=js"></script>
-
-
-<h3>Upcoming Regattas</h3>
-<table border="0">
-<tr>
-<td>September 11, 2010</td>
-<td>Home Scrimmage <br/> Albany, NY</td>
-</tr>
-
-<tr>
-<td>September 18, 2010</td>
-<td>Home Scrimmage <br/>Albany, NY</td>
-</tr>
-
-<tr>
-<td>September 25, 2010</td>
-<td>Head of the Hudson <br/>Albany, NY</td>
-</tr>
-
-<tr>
-<td>October 2, 2010</td>
-<td>Head of the Mohawk <br/>Niskayuna, NY</td>
-</tr>
-
-<tr>
-<td>October 9, 2010</td>
-<td>Head of the Housatonic <br/>Shelton, CT</td>
-</tr>
-
-<tr>
-<td>October 23 &amp; 24, 2010</td>
-<td>Head of the Charles <br/>Cambridge, MA</td>
-</tr>
-
-<tr>
-<td>October 31, 2010</td>
-<td>Head of the Fish <br/>Saratoga Springs, NY</td>
-</tr>
-
-</table>
-
-</div>
 <div id="main">
 
 
@@ -127,6 +81,52 @@ Bethlehem H.S.
 </ul></li>
 <li> Completing the 8 was Sarah Gannon of Albany Academy and Becca Herron of Catholic Central H.S. </li>
 </ul>
+
+</div>
+<div id="sidebar">
+<?php insert_slideshow($all_slideshow); ?>
+
+<script src="http://www.gmodules.com/ig/ifr?url=http://bayareacoder.com/gogo/localweather/localweather.xml&up_yahooLastDate=&up_yahooData=&up_zip=12201&up_default=1&synd=open&w=308&h=293&title=Currently+in+Albany&border=%23ffffff%7C3px%2C1px+solid+%23999999&output=js"></script>
+
+
+<h3>Upcoming Regattas</h3>
+<table border="0">
+<tr>
+<td>September 11, 2010</td>
+<td>Home Scrimmage <br/> Albany, NY</td>
+</tr>
+
+<tr>
+<td>September 18, 2010</td>
+<td>Home Scrimmage <br/>Albany, NY</td>
+</tr>
+
+<tr>
+<td>September 25, 2010</td>
+<td>Head of the Hudson <br/>Albany, NY</td>
+</tr>
+
+<tr>
+<td>October 2, 2010</td>
+<td>Head of the Mohawk <br/>Niskayuna, NY</td>
+</tr>
+
+<tr>
+<td>October 9, 2010</td>
+<td>Head of the Housatonic <br/>Shelton, CT</td>
+</tr>
+
+<tr>
+<td>October 23 &amp; 24, 2010</td>
+<td>Head of the Charles <br/>Cambridge, MA</td>
+</tr>
+
+<tr>
+<td>October 31, 2010</td>
+<td>Head of the Fish <br/>Saratoga Springs, NY</td>
+</tr>
+
+</table>
 
 </div>
 <? include("footer.inc"); ?>

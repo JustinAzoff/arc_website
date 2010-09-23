@@ -4,11 +4,6 @@ $title = "Head of the Hudson Regatta";
 include("header.inc");
 ?>
 
-<div id="sidebar">
-<?php insert_slideshow($hoh_slideshow); ?>
-<img src="images/FINALHOH24navyfront.png" />
-</div>
-
 <div id="main">
 <h1> <?= $title ?> </h1>
 
@@ -78,4 +73,9 @@ Corning Preserve.
 </ul>
 
 </div>
+<div id="sidebar">
+<?php insert_slideshow($hoh_slideshow); ?>
+<img src="images/FINALHOH24navyfront.png" />
+</div>
+
 <? include("footer.inc"); ?>

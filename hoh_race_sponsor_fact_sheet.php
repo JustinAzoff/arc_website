@@ -174,4 +174,8 @@ cover the costs of the events that we host.
  
 
 </div>
+<div id="sidebar">
+<?php insert_slideshow($hoh_slideshow); ?>
+<img src="images/FINALHOH24navyfront.png" />
+</div>
 <? include("footer.inc"); ?>

@@ -2,9 +2,6 @@
 $title = "Programs";
 include("header.inc");
 ?>
-<div id="sidebar">
-<?php insert_slideshow($programs_slideshow); ?>
-</div>
 <div id="main">
 <h1> Programs and Camps </h1>
         
@@ -39,5 +36,8 @@ adults.</p>
     <li><a href="/summer_programs.php">Juniors</a></li>
 </ul>
 
+</div>
+<div id="sidebar">
+<?php insert_slideshow($programs_slideshow); ?>
 </div>
 <? include("footer.inc"); ?>

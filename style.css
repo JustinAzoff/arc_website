@@ -21,6 +21,7 @@ display: block; margin-left: auto; margin-right: auto;
     width: 1000px;
     background-image: url(images/header_stripe_blue.jpg);
     color: white;
+    clear: both;
 }
 #footer p{
     text-align: right;
@@ -40,13 +41,19 @@ margin-right: auto;
 /* float: left; */
 /* min-width: 20em;
 max-width: 40em; */
-padding: 18px;
+padding-top: 18px;
+padding-left: 10px;
+padding-right: 10px;
 width: 480px;
+float: left;
 }
 #sidebar
 {
-float: right;
-padding: 18px;
+padding-top: 18px;
+width: 480px;
+float: left;
+padding-left: 10px;
+padding-right: 10px;
 }
 
 
