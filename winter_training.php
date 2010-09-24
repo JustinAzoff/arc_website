@@ -8,7 +8,9 @@ include("header.inc");
 <h1> <?= $title ?> </h1>
 
 <h2> Registration Packet </h2>
+<p>
 <a href="/docs/WINTER TRAINING REGISTRATION FORM 09_10.pdf">Download 2009 winter program registration form</a>
+</p>
 
 <h2>Program Description</h2>
 <p>
@@ -90,21 +92,21 @@ parent's email is requested to be included in these communications.  Sign up
 for the listserv using the box below. 
 </p>
 
-<table border=0 style="background-color: #fff; padding: 5px;" cellspacing=0>
+<form action="http://groups.google.com/group/arc-winter-training-group/boxsubscribe">
+<table border="0" style="background-color: #fff; padding: 5px;" cellspacing="0">
   <tr><td>
   <img src="http://groups.google.com/intl/en/images/logos/groups_logo_sm.gif"
-         height=30 width=140 alt="Google Groups">
+         height="30" width="140" alt="Google Groups" />
   </td></tr>
   <tr><td style="padding-left: 5px">
   <b>Subscribe to ARC Winter Training Group</b>
   </td></tr>
-  <form action="http://groups.google.com/group/arc-winter-training-group/boxsubscribe">
   <tr><td style="padding-left: 5px;">
-  Email: <input type=text name=email/>
-  <input type=submit name="sub" value="Subscribe"/>
+  Email: <input type="text" name="email" />
+  <input type="submit" name="sub" value="Subscribe"/>
   </td></tr>
-</form>
 </table>
+</form>
 
 
 </div>
