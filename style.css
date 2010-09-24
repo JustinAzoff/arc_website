@@ -3,6 +3,9 @@ p,h1,h2,h3 {
     padding: 0px;
     font-family: Helvetica, Arial, sans-serif;
 }
+a {
+    text-decoration: none;
+}
 body {
     width: 100%;
     background-color: #c0c0c0;
