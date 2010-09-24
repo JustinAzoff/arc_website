@@ -86,7 +86,7 @@ Bethlehem H.S.
 <div id="sidebar">
 <?php insert_slideshow($all_slideshow); ?>
 
-<script src="http://www.gmodules.com/ig/ifr?url=http://bayareacoder.com/gogo/localweather/localweather.xml&up_yahooLastDate=&up_yahooData=&up_zip=12201&up_default=1&synd=open&w=308&h=293&title=Currently+in+Albany&border=%23ffffff%7C3px%2C1px+solid+%23999999&output=js"></script>
+<script type="text/javascript" src="http://www.gmodules.com/ig/ifr?url=http://bayareacoder.com/gogo/localweather/localweather.xml&amp;up_yahooLastDate=&amp;up_yahooData=&amp;up_zip=12201&amp;up_default=1&amp;synd=open&amp;w=308&amp;h=293&amp;title=Currently+in+Albany&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
 
 
 <h3>Upcoming Regattas</h3>
