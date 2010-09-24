@@ -195,15 +195,16 @@ ul, ol {
 
 a.button {
     color: white;
-    background-color: #292d59;   
+    background-color: #292d59;
     -moz-border-radius: 35px;
     border-radius: 35px;
     padding: 9px;
+    border: 1px solid black;
 }
 
 a.button:hover {
     color: black;
-    background-color: #e58a00;
+    background-color: #ff9300;
 }
 
 
