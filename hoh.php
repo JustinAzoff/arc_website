@@ -50,9 +50,8 @@ Corning Preserve.
 <p>
 
 <p>
-<a href="hoh_2009_race_sponsor_fact_sheet.php">Sponsor the 2010 Head of the Hudson Regatta</a>
+<a class="button" href="hoh_2009_race_sponsor_fact_sheet.php">Sponsor the 2010 Head of the Hudson Regatta</a>
 </p>
-
 
 <h2> Related Documents </h2>
 <ul>

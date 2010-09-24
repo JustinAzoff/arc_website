@@ -193,6 +193,19 @@ ul, ol {
   margin-bottom: 18px; 
 }
 
+a.button {
+    color: white;
+    background-color: #292d59;   
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    padding: 9px;
+}
+
+a.button:hover {
+    color: black;
+    background-color: #e58a00;
+}
+
 
 /* for screen readers and cell phones */
 .hidden
