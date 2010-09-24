@@ -64,6 +64,7 @@ Please contact
 <p>
 Registration will be limited to 12 participants for each session. Register now
 to reserve your seat.  To register, please complete the <a href="/docs/2010%20Adult Learn to Row Packet.pdf">registration packet</a> and mail to: 
+</p>
 
 <pre>
     Adult LTR Program
@@ -71,7 +72,6 @@ to reserve your seat.  To register, please complete the <a href="/docs/2010%20Ad
     PO Box 857
     Albany, NY 12201
 </pre>
-</p>
 
 
 </div>
