@@ -20,7 +20,7 @@ function insert_slideshow($show)
     $image_js = str_replace("\/","/", $image_js); //wtf?
     echo <<<EOF
     <div class="slideshow" id="slideshow">
-    <img src="$i" />
+    <img src="$i" alt="main slideshow image"/>
     </div>
     <script type="text/javascript">
     $(function(){
