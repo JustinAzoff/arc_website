@@ -39,11 +39,11 @@ for the 10 day session.
 
 <table class="thin">
 <tr> <th>Session</th> <th>Dates</th> </tr>
-<td>1</td> <td> May 10th - May 21st </td> </tr>
-<td>2</td> <td> June 1st - June 11th </td> </tr>
-<td>3</td> <td> June 21st - July 2nd </td> </tr>
-<td>4</td> <td> July 12th - July 23rd </td> </tr>
-<td>5</td> <td> Canceled </td> </tr>
+<tr> <td>1</td> <td> May 10th - May 21st </td> </tr>
+<tr> <td>2</td> <td> June 1st - June 11th </td> </tr>
+<tr> <td>3</td> <td> June 21st - July 2nd </td> </tr>
+<tr> <td>4</td> <td> July 12th - July 23rd </td> </tr>
+<tr> <td>5</td> <td> Canceled </td> </tr>
 </table>
 
 <h2> Coach </h2>
