@@ -13,11 +13,18 @@ function insert_slideshow($show)
     $i = $path . $first_image;
 
     $images=array();
+    /* php 5.1 doesn't have json_encode
     foreach($show as $img){
         $images[]=array('src' => $path . $img);
     }
     $image_js = json_encode($images);
     $image_js = str_replace("\/","/", $image_js); //wtf?
+    */
+    $image_js="";
+    foreach($show as $img){
+        $images[] = "{'src': '${path}${img}' }";
+    }
+    $image_js = "[" . join(", ", $images) . "]";
     echo <<<EOF
     <div class="slideshow" id="slideshow">
     <img src="$i" alt="main slideshow image"/>
