@@ -92,21 +92,6 @@ Bethlehem H.S.
 <h3>Upcoming Regattas</h3>
 <table border="0">
 <tr>
-<td>September 11, 2010</td>
-<td>Home Scrimmage <br/> Albany, NY</td>
-</tr>
-
-<tr>
-<td>September 18, 2010</td>
-<td>Home Scrimmage <br/>Albany, NY</td>
-</tr>
-
-<tr>
-<td>September 25, 2010</td>
-<td>Head of the Hudson <br/>Albany, NY</td>
-</tr>
-
-<tr>
 <td>October 2, 2010</td>
 <td>Head of the Mohawk <br/>Niskayuna, NY</td>
 </tr>
