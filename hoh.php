@@ -49,13 +49,19 @@ and, one after the other, race south to finish at the amphitheater at the
 Corning Preserve.
 </p>
 
+<!--
 <p>
 <a class="button" href="hoh_2009_race_sponsor_fact_sheet.php">Sponsor the 2010 Head of the Hudson Regatta</a>
 </p>
+-->
 
 <h2> Related Documents </h2>
 <ul>
     <li><a href="/docs/head of the hudson brochure2009.pdf">2009 Fundraising brochure</a> </li>
+</ul>
+<h2>2010 Head of the Hudson</h2>
+<ul>
+    <li><a href="/docs/Head-of-the-Hudson-2010-all-results.pdf">Results</a> </li>
 </ul>
 <h2>2009 Head of the Hudson</h2>
 <ul>
