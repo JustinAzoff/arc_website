@@ -39,11 +39,11 @@ for the 10 day session.
 
 <table class="thin">
 <tr> <th>Session</th> <th>Dates</th> </tr>
-<td>1</td> <td> May 10th - May 21st </td> </tr>
-<td>2</td> <td> June 1st - June 11th </td> </tr>
-<td>3</td> <td> June 21st - July 2nd </td> </tr>
-<td>4</td> <td> July 12th - July 23rd </td> </tr>
-<td>5</td> <td> Canceled </td> </tr>
+<tr> <td>1</td> <td> May 10th - May 21st </td> </tr>
+<tr> <td>2</td> <td> June 1st - June 11th </td> </tr>
+<tr> <td>3</td> <td> June 21st - July 2nd </td> </tr>
+<tr> <td>4</td> <td> July 12th - July 23rd </td> </tr>
+<tr> <td>5</td> <td> Canceled </td> </tr>
 </table>
 
 <h2> Coach </h2>
@@ -64,6 +64,7 @@ Please contact
 <p>
 Registration will be limited to 12 participants for each session. Register now
 to reserve your seat.  To register, please complete the <a href="/docs/2010%20Adult Learn to Row Packet.pdf">registration packet</a> and mail to: 
+</p>
 
 <pre>
     Adult LTR Program
@@ -71,7 +72,6 @@ to reserve your seat.  To register, please complete the <a href="/docs/2010%20Ad
     PO Box 857
     Albany, NY 12201
 </pre>
-</p>
 
 
 </div>

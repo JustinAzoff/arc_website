@@ -3,6 +3,7 @@
 $title = "Head of the Hudson Regatta";
 include("header.inc");
 ?>
+
 <div id="main">
 <h1> <?= $title ?> </h1>
 
@@ -46,13 +47,11 @@ along the course. Competing rowers begin at a start point just north of the I
 90 bridge, upstream of the Albany Rowing Center boathouse on the Hudson River
 and, one after the other, race south to finish at the amphitheater at the
 Corning Preserve.
-<p>
-
-<p>
-<a href="hoh_2009_race_sponsor_fact_sheet.php">Sponsor the 2010 Head of the Hudson Regatta</a>
 </p>
 
-<img style="float: right" src="images/FINALHOH24navyfront.png" />
+<p>
+<a class="button" href="hoh_2009_race_sponsor_fact_sheet.php">Sponsor the 2010 Head of the Hudson Regatta</a>
+</p>
 
 <h2> Related Documents </h2>
 <ul>
@@ -60,9 +59,9 @@ Corning Preserve.
 </ul>
 <h2>2009 Head of the Hudson</h2>
 <ul>
-    <li><a href="https://www.regattacentral.com/index.jsp?tab=regattas&amp;section=all_entries&amp;id=1369">Entries</a>
-    <li> <a href="http://www.regattacentral.com/regatta/results/1369.pdf">Results</a> </li>
-    <li><a href="hoh_2010_sponsors.php">Sponsors</a></li>
+    <li><a href="https://www.regattacentral.com/index.jsp?tab=regattas&amp;section=all_entries&amp;id=1369">Entries</a> </li>
+    <li><a href="http://www.regattacentral.com/regatta/results/1369.pdf">Results</a> </li>
+    <li><a href="hoh_2010_sponsors.php">Sponsors</a> </li>
 </ul>
 
 <h2>2008 Head of the Hudson</h2>
@@ -73,4 +72,9 @@ Corning Preserve.
 </ul>
 
 </div>
+<div id="sidebar">
+<?php insert_slideshow($hoh_slideshow); ?>
+<img src="images/FINALHOH24navyfront.png" alt="24th Head of the Hudson Regatta" />
+</div>
+
 <? include("footer.inc"); ?>

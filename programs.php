@@ -37,4 +37,7 @@ adults.</p>
 </ul>
 
 </div>
+<div id="sidebar">
+<?php insert_slideshow($programs_slideshow); ?>
+</div>
 <? include("footer.inc"); ?>

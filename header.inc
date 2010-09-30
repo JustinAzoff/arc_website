@@ -5,7 +5,8 @@
 
 <link rel="stylesheet" type="text/css" href="/style.css" />
 <link rel="stylesheet" type="text/css" media="print" href="/print.css" />
-
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cross-slide.min.js"></script>
 </head>
 <body>
 
@@ -13,15 +14,8 @@
 <a href="#content">Jump to main content</a>
 </p>
 
-<?php
-    require_once("images.inc");
-    if(!isset($header_image_tag))
-        $header_image_tag="global";
-?>
-
 <div id="header">
-<img src="/header_images/<?=random_image_for_tag($header_image_tag)?>" alt="Albany Rowing Center, Albany New York" />
-</div>
+<a href="/"><img src="/images/header.jpg" alt="Albany Rowing Center, Albany New York" /></a>
 
 <div id="navcontainer">
 <ul>
@@ -42,11 +36,14 @@
 </li>
 <li> <? header_link("docs.php", "Forms &amp; Documents") ?> </li>
 <li> <? header_link("contact.php", "Contact Us") ?> </li>
-<li> <? header_link("directions.php", "Driving Directions") ?> </li>
+<!-- <li> <? header_link("directions.php", "Driving Directions") ?> </li> -->
 </ul>
 </div>
+</div>
 <a name="content"></a>
-<?
+<?php
+require_once("slideshow.inc");
+
 function header_link($href, $txt){
     if (basename($_SERVER["REQUEST_URI"]) == $href){
         $active = 'class="active"';
@@ -56,3 +53,4 @@ function header_link($href, $txt){
     printf('<a href="/%s" %s>%s</a>', $href, $active, $txt);
 }
 ?>
+<div id="wrap">
