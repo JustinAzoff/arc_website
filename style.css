@@ -192,6 +192,9 @@ h3 {
 ul, ol { 
   margin-bottom: 18px; 
 }
+#main ul li {
+  margin-bottom: 3px; 
+}
 
 a.button {
     color: white;
