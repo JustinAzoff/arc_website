@@ -60,7 +60,7 @@ Masters Regatta in St. Catharines, Ontario, in September.
 </p>
 
 <h2> Coach </h2>
-<p> Burt Apfelbaum </p>
+<p> Mike MacMinn </p>
 
 <h2>Regattas & Virtual Racing Account</h2>
 <p>
