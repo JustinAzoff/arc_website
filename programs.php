@@ -9,6 +9,7 @@ include("header.inc");
 <p> We offer competitive, intermediate, and recreational programs for
 adults of all ages.</p>
 <ul>
+  <li><a href="winter_training.php">Winter Training</a></li>
   <li><a href="adult_competitive.php">Morning Competitive</a> </li>
   <li><a href="adult_evening_program.php">Evening Coached / Intermediate / Recreational</a> </li>
   <li><a href="adult_novice.php">Novice Program</a> </li>
@@ -21,6 +22,7 @@ adults of all ages.</p>
 develop competitively.</p>
 <ul>
 
+    <li><a href="winter_training.php">Winter Training</a></li>
     <li><a href="junior_programs.php">Junior Program Overview</a></li>
     <li><a href="junior_programs.php#hs">High School Rowing</a></li>
     <!--<li><a href="modified_rowing.php">Modified Rowing</a></li>-->

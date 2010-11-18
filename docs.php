@@ -13,6 +13,7 @@ Important forms and documents for Albany Rowing Center. Forms require Adobe Acro
 <h2>Forms For Everyone</h2>
 <ul>
     <li><a href="/docs/ARC Rowing Waiver.pdf">2010 ARC/USRA Waiver</a></li>
+    <li><a href="/docs/WINTER TRAINING REGISTRATION FORM 10_11.pdf">Winter Training Registration</a></li>
 </ul>
 
 <h2>Form For Juniors</h2>
@@ -28,10 +29,12 @@ Important forms and documents for Albany Rowing Center. Forms require Adobe Acro
     <li><a href="/docs/2010%20Adult Learn to Row Packet.pdf">2010 ARC Adult Learn to Row registration packet</a> </li>
     <li><a href="/docs/LTR brochure.2010.04.pdf">2010 ARC Adult Learn to Row Brochure</a> </li>
 </ul>
+</div>
 
+<div id="sidebar">
+<br/> <br/>
 <p>
 <a href="http://get.adobe.com/reader/?promoid=BUIGO"><img height="39" width="158" src="../assets/images/get_adobe_reader.png" border="0" alt="get_adobe_reader" title="get_adobe_reader" /></a>
 </p>
-
 </div>
 <? include("footer.inc"); ?>
