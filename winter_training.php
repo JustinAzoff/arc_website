@@ -19,7 +19,7 @@ spring competition and improve athleticism and rowing potential for
 non-competitive adults and those returning to rowing after a break in
 training. This is the time when athletes build strength and power for the
 spring regatta season. Winter training will take place from December
-1<super>st</super> 2010 through March 12<super>th</super> 2011 at our rented
+6<super>th</super> 2010 through March 12<super>th</super> 2011 at our rented
 space on the first floor of 883 Broadway in Albany at the corner of Broadway
 and North Ferry Street.
 </p>
