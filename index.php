@@ -15,14 +15,6 @@ for rowing in New York's Capital District.  ARC rowers represent all ages (from
 middle school students on up) and a wide range of rowing abilities (from novice
 to experienced).
 </p>
-<p>
-We conduct several rowing events each year. We celebrate National Learn to Row
-Day in early June, and conduct a Community Rowing Challenge on the same day. We
-host a number of scrimmages against other crews during the course of our summer
-season. We host the Head of the Hudson Regatta each fall at the end of
-September. The Head of the Hudson is our premier event, bringing together
-hundreds of competitors from high schools, colleges and clubs from the Capital
-District, other areas of New York and surrounding states.  </p>
 
 <h1>News</h1>
 
