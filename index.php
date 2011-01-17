@@ -18,15 +18,17 @@ to experienced).
 
 <h1>News</h1>
 
-<h2>Changes to this year's Head of the Hudson Regatta</h2>
+<h2>Ice Breaker Challenge 5K</h2>
+
 <p>
-This year, the twenty fourth in the series, we've made some changes to the
-event. We have shortened the usual 3 mile race to be just under 2 miles (3.2K)
-and it is much more spectator friendly, with viewing possible at every point
-along the course. Competing rowers begin at a start point just north of the I
-90 bridge, upstream of the Albany Rowing Center boathouse on the Hudson River
-and, one after the other, race south to finish at the amphitheater at the
-Corning Preserve.  <a href="hoh.php">Read More about the changes to the Head of the Hudson</a>
+Save the Date! <a href="ice_breaker_challenge.php">Ice Breaker Challenge 5K</a>
+Run will be March 26, 2011
+</p>
+
+<h2> Head of the Hudson</h2>
+<p>
+Save the Date! The 25th <a href="hoh.php">Head of the Hudson Regatta</a> will
+take place Saturday September 24, 2011.
 </p>
 
 <h2>Our New Site! </h2>
