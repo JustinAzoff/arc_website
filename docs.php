@@ -14,6 +14,7 @@ Important forms and documents for Albany Rowing Center. Forms require Adobe Acro
 <ul>
     <li><a href="/docs/ARC Rowing Waiver.pdf">2010 ARC/USRA Waiver</a></li>
     <li><a href="/docs/WINTER TRAINING REGISTRATION FORM 10_11.pdf">Winter Training Registration</a></li>
+    <li><a href="/docs/Ice_Breaker_Form.pdf">Ice Breaker challenge 5k Registration Form</a></li>
 </ul>
 
 <h2>Form For Juniors</h2>

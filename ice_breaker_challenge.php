@@ -18,10 +18,13 @@ include("header.inc");
 <dt> Contact: </dt>
 <dd> Kathy Johnston wade.johnston@hotmail.com </dd>
 
-<dt> Registration: </dt>
-<dd> see <a href="http://www.hmrrc.com/index.cfm?method=Race.Schedule">
-Hudson Mohawk Road Runners</a> </dd>
+<dt> Registration Form: </dt>
+<dd> <a href="/docs/Ice_Breaker_Form.pdf">Download Registration Form</a></dd>
 </dl>
 
+</div>
+
+<div id="sidebar">
+<img src="/images/ice_breaker_logo.jpeg" />
 </div>
 <? include("footer.inc"); ?>
