@@ -25,9 +25,9 @@ Rowing Center Boathouse in the Corning Preserve.
 <dt> Start: </dt>
 <dd> Boathouse at Corning Preserve Public Boat Launch </dd>
 <dt> Course: </dt>
-<dd> 2.5K out the bike path and 2.5K back to Boathouse </dd>
+<dd> 5K Along the Corning Preserve Bicycle Path </dd>
 <dt> Contact: </dt>
-<dd> Kathy Johnston wade.johnston@hotmail.com </dd>
+<dd> wade.johnston@hotmail.com </dd>
 
 <dt> Registration Form: </dt>
 <dd> <a href="/docs/Ice_Breaker_Form.pdf">Download Registration Form</a></dd>
