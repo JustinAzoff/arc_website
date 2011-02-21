@@ -40,8 +40,8 @@ the boat.</dd>
 
 <h2>Documents</h2>
 <ul>
-<li><a href="/missing">Learn to Row Day flyer</a></li>
-<!--<li><a href="/docs/ARC2011 info brochure.pdf">Albany Rowing Center brochure</a></li> -->
+<li><a href="/docs/LTR day flyer 2011.pdf">Learn to Row Day flyer</a></li>
+<li><a href="/docs/ARC2011 info brochure.pdf">Albany Rowing Center brochure</a></li>
 </ul>
 
 </div>

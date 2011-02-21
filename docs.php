@@ -29,6 +29,7 @@ Important forms and documents for Albany Rowing Center. Forms require Adobe Acro
 <ul>
     <li><a href="/docs/ARC Adult Membership Form.pdf">2010 ARC Adult Membership Form</a></li>
     <li><a href="/docs/2011 adult LTR reg packet.pdf">2011 ARC Adult Learn to Row registration packet</a> </li>
+    <li><a href="/docs/LTR day flyer 2011.pdf">2011 ARC Adult Learn to Row Flyer</a> </li>
 </ul>
 </div>
 
