@@ -6,6 +6,11 @@ include("header.inc");
 <div id="main">
 <h1> <?= $title ?> </h1>
 
+<h2> 2011 Adult learn to row day</h2>
+<p>
+The <a href="adult_learn_to_row_day.php">2011 Adult learn to row day</a> will be on April 23rd.
+</p>
+
 <h2> Ice Breaker Challenge 5K</h2>
 <p>
 Save the Date!  <a href="ice_breaker_challenge.php">Ice Breaker Challenge 5K</a>
