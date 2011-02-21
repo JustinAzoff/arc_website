@@ -9,12 +9,12 @@ include("header.inc");
 Learn to Row Day will be held on Saturday, April 23rd 2011. Learn to Row Day is
 free and open to adults 18 years and older. It is an opportunity for anyone
 interested in learning about rowing to get a hands-on introduction to the sport
-and find out about ARC’s rowing programs. Members of the community may drop in
+and find out about ARC's rowing programs. Members of the community may drop in
 anytime during the scheduled activities and receive the following:
 
 <ul>
 <li>a tour of the boathouse and demonstration of our rowing equipment</li>
-<li>instruction on one of ARC’s rowing machines to learn the basics of the rowing stroke</li>
+<li>instruction on one of ARC's rowing machines to learn the basics of the rowing stroke</li>
 <li>a chance to actually go out on the Hudson River in an eight person racing
 shell and row with other novices and experienced ARC rowers.</li>
 </ul>
