@@ -83,6 +83,7 @@ Bethlehem H.S.
 <script type="text/javascript" src="http://www.gmodules.com/ig/ifr?url=http://bayareacoder.com/gogo/localweather/localweather.xml&amp;up_yahooLastDate=&amp;up_yahooData=&amp;up_zip=12201&amp;up_default=1&amp;synd=open&amp;w=308&amp;h=293&amp;title=Currently+in+Albany&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
 
 
+<!--
 <h3>Upcoming Regattas</h3>
 <table border="0">
 <tr>
@@ -106,6 +107,17 @@ Bethlehem H.S.
 </tr>
 
 </table>
+-->
+<h3>Huson River Information</h3>
+<ul>
+<li><a href="http://www.riverkeeper.org/water-quality/locations/albany-rensselaer/albany-rowing-dock/">Water Quality</a> </li>
+<li><a href="http://www.hudsonriver.com/hudson-river-tidal-charts">Tide Charts</a></li>
+<li><a href="http://waterdata.usgs.gov/usa/nwis/uv?01358000">USGS Flow gage</a></li>
+<li><a href="http://ny.water.usgs.gov/projects/dialer_plots/saltfront.html">Hudson River Salt Front data</a></li>
+<li><a href="http://www.dec.ny.gov/lands/4920.html">Hudson River Estuary Program</a></li>
+</ul>
+
+
 
 </div>
 <? include("footer.inc"); ?>
