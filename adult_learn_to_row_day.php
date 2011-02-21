@@ -45,4 +45,8 @@ the boat.</dd>
 </ul>
 
 </div>
+
+<div id="sidebar">
+<?php insert_slideshow($ltr_slideshow); ?>
+</div>
 <? include("footer.inc"); ?>

@@ -8,6 +8,8 @@ $programs_slideshow = explode(",", "DSC_0322.JPG,DSC_0704_2.JPG,IMG_1260.JPG,IMG
 
 $winter_slideshow = explode(",", "wt_IMG_9322.JPG,wt_IMG_9274.JPG,wt_IMG_9408.JPG");
 
+$ltr_slideshow = explode(",", "DSC00282.JPG,flag with oars.jpg,Hugh and Dave catch.jpg,LTR8.jpg,Silverskiff 2009.jpg");
+
 function insert_slideshow($show)
 {
     $path="/images/slideshow_images/";

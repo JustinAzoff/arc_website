@@ -67,4 +67,9 @@ reserve your seat. To register, please complete the <a href="/docs/2011 adult LT
 </pre>
 
 </div>
+
+<div id="sidebar">
+<?php insert_slideshow($ltr_slideshow); ?>
+</div>
+
 <? include("footer.inc"); ?>
