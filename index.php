@@ -18,6 +18,11 @@ to experienced).
 
 <h1>News</h1>
 
+<h2> 2011 Adult learn to row day</h2>
+<p>
+The <a href="adult_learn_to_row_day.php">2011 Adult learn to row day</a> will be on April 23rd.
+</p>
+
 <h2>2010 Accomplishments Video</h2>
 <p>
 <object style="height: 292px; width: 480px">
@@ -25,11 +30,6 @@ to experienced).
     <param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always">
     <embed src="http://www.youtube.com/v/n0_GtHWMjoc?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="480" height="292">
 </object>
-</p>
-
-<h2> 2011 Adult learn to row day</h2>
-<p>
-The <a href="adult_learn_to_row_day.php">2011 Adult learn to row day</a> will be on April 23rd.
 </p>
 
 <h2>Ice Breaker Challenge 5K</h2>
