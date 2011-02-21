@@ -61,8 +61,7 @@ Please contact learn2row@albanyrowingcenter.org
 <h2>Registration</h2>
 
 Registration is generally limited to 12 participants for each session. Register now to
-reserve your seat. To register, please complete the registration packet and mail to the
-address indicated.
+reserve your seat. To register, please complete the <a href="/docs/2011 adult LTR reg packet.pdf">2011 registration packet</a> and mail to the address indicated.
 
 
 </pre>
