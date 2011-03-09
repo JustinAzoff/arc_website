@@ -1,12 +1,11 @@
 
 <? 
-$title = "Junior Rowing";
+$title = "Junior Rowing Program";
 $header_image_tag="juniors";
 include("header.inc");
 ?>
 <div id="main">
 <h1> Junior Rowing </h1>
-
 
 <p>
 Rowing is an amazing sport that never fails to challenge the body, mind, and
@@ -28,19 +27,19 @@ compete at national and international events.
 ARC recognizes that excellence does not appear but must be fostered in each
 rower so that individual and team goals can be set and accomplished. Rowers of
 all levels, from the beginner to the experienced, are coached to reach their
-potential. Juniors ages 11-18 are all given the opportunity to learn to row and
-compete. 
+potential. Juniors ages 12-18 are all given the opportunity to learn to row and
+compete.
 </p>
 
 <a name="hs" />
-<h2> High School Rowing </h2>
-    
+<h2>High School Rowing</h2>
+
 <p>
 High School rowers, from Novice to Varsity, will row competitively in the
-Spring and Fall. Non-competitive rowing is an option only in summer.
+Spring and Fall. Non- competitive rowing is an option only in summer.
 Competitive rowers are divided into appropriate groups and boats based on their
 performance, erg times and commitment levels. Each group will focus on
-developing technique and fitness. 
+developing technique and fitness.
 </p>
 
 <p>
@@ -50,138 +49,60 @@ competitive regattas. Rowers are assessed regularly and evaluated for moving
 into the Varsity group. The Varsity group includes those who have achieved
 criteria set by the head coach, including reaching competitive erg scores,
 skill levels and commitment levels. This group will practice six times a week
-and compete at regional and national championships. 
+and compete at regional and national championships.
 </p>
 
+<h3> Coxswains </h3>
 <p>
-Coxswains - ARC also offers students the opportunity to learn coxswain skills.
-The coxswain is an essential part of sweep rowing, as essential as the rowers
-themselves. The job of the coxswain is to steer the boat, help the crew keep
-the cadence, calls out instructions and the stroke rating. The coxswain must be
-a good communicator.
+ARC also offers students the opportunity to learn coxswain skills. The coxswain
+is an essential part of sweep rowing, as essential as the rowers themselves.
+The job of the coxswain is to steer the boat, help the crew keep the cadence,
+calls out instructions and the stroke rating.  The coxswain must be a good
+communicator.
 </p>
 
-
-<h2>2010 Dates and Dues</h2> 
-<h3><a href="juniors_2010_schedule.php">Juniors Schedule for 2010</a></h3>
-
-<table border="2" cellspacing="0"> 
-<tr valign="top">
-  <td> </td> 
-  <th>Spring</th> 
-  <th>Summer</th> 
-  <th>Fall</th>
-</tr> 
-<tr valign="top">
-  <th>Dates</th> 
-  <td>March 15 - May 31</td> 
-  <td>June 14 - July 30</td> 
-  <td>August 23 - November 5</td>
-</tr>
-<tr valign="top">
-  <th>Weekdays</th> 
-  <td>Mon-Fri  <br/> 
-  4:15 - 6:00 p.m.</td> 
-  <td>
-  Mon-Fri <br/>
-  4:15 - 6:00 p.m. until June 26,
-  then 7:00-9:00 a.m. daily</td> 
-  <td>Mon-Fri  <br/> 
-  4:15 - 6:00 p.m.</td>
-</tr> 
-<tr valign="top">
-  <th>Weekend</th> 
-  <td>Sat <br/> 
-  9:00-11:00 a.m.</td> 
-  <td>Sat <br/> 
-  9:00-11:00 a.m.</td> 
-  <td>Sat <br/> 
-  9:00-11:00 a.m.</td>
-</tr> 
-<tr valign="top">
-  <th>Rower Dues*</th> 
-  <td>$450*</td> 
-  <td>$380*<br/>
-  7 weeks</td> 
-  <td>$450*</td></tr> 
-<tr valign="top">
-  <th>Coxswain Dues*</th> 
-  <td>$100*</td> 
-  <td>$100*</td> 
-  <td>$100*</td>
-</tr> 
-<tr valign="top">
-  <th>Regatta Fee</th> 
-  <td>$75</td> 
-  <td>Costs for Henley will be determined prior to regatta</td> 
-  <td>$75</td>
-</tr> 
-</table> 
-<p>* Regatta fees are not included in dues.</p>
-
-
-<h2> Coaches </h2>
+<h3> Practice Schedule </h3>
 <ul>
-    <li> Program Director/Head Coach - Mike MacMinn - <a href="mailto:mike.macminn@gmail.com">mike.macminn@gmail.com</a></li>
-    <li> Assistant Coach - Evan Bollin</li>
+    <li> Monday to Friday Afternoons from 4:15 to 6:15 PM. Pickup your rower between 6:15 and 6:30. </li>
+    <li> Saturday Mornings from 9:00 to 11:00 AM. Pick up your rower between 11:15 and 11:30. </li>
 </ul>
 
-<h2>Registration</h2>
+<h3> Coaches </h3>
 <ul>
-    <li><a href="/docs/Fall 2010 NEW Rower reg forms.doc">Fall 2010 NEW Rower Registration Packet</a></li>
+    <li>Program Director/Head Coach - <a href="mike.macminn@gmail.com">Mike MacMinn</a></li>
+    <li>Novice Program Coach - Evan Bollin </li>
 </ul>
 
-<p>
-Fall registrations are due August 23.
-Rowers will not be allowed to row until registration materials and payment are submitted. 
-</p>
+<h2> Season Dates and Dues </h2>
 
+<h2> Registration </h2>
 <p>
-Please mail completed registration forms to:
+Please mail the completed <a href="/docs/Spring 11 NEW rower Reg Forms.pdf">
+registration forms</a> with payment to the address below.  Make check payable
+to Albany Rowing Center. Unless an individual arrangement is made with the ARC
+Treasurer, rowers will not be boated until dues are paid. If you need to
+arrange a payment schedule, contact <a href="info@albanyrowingcenter.org">info@albanyrowingcenter.org</a>.
 </p>
 
 <pre>
-    Organization of Adirondack Rowers and Scullers
-    Albany Rowing Center C/O Bierman
-    111 Read Road,
+    Albany Rowing Center c/o Laura Bierman
+    Junior Program Registration
+    111 Read Road
     Glenmont, NY 12077
 </pre>
 
-<h2>Questions</h2>
-
+<h2> Questions </h2>
 <ul>
-    <li> Registration - <a href="mailto:lbierman@nycap.rr.com">lbierman@nycap.rr.com</a> </li>
-    <li> PARK (ARC Junior Parent organization) - <a href="mailto:wade.johnston@hotmail.com">wade.johnston@hotmail.com</a> </li>
-    <li> General information - <a href="mailto:info@albanyrowingcenter.org">info@albanyrowingcenter.org</a>  </li>
+    <li> Registration - <a href="mailto:juniorsrowing@albanyrowingcenter.org">juniorsrowing@albanyrowingcenter.org</a></li>
+    <li> PARK (ARC Junior Parent organization) - <a href="mailto:wade.johnston@hotmail.com">Wade Johnston</a></li>
+    <li> General information - <a href="mailto:info@albanyrowingcenter.org">info@albanyrowingcenter.org</a></li>
+    <li> Questions for the Coach - <a href="mailto:mike.macminn@gmail.com">Mike MacMinn</a></li>
 </ul>
 
-<h2> Planned Regatta Schedule </h2>
-
-<h3> Spring </h3>
-
-<table class="thin">
-<tr><td>Emma Willard                </td><td> April 10</td></tr>
-<tr><td>Saratoga Invitational       </td><td> April 24 &amp; 25</td></tr>
-<tr><td>Sectionals (Niskayuna)      </td><td> May 1 &amp; 2 </td></tr>
-<tr><td>States (Saratoga)           </td><td> May 8 &amp; 9</td></tr>
-<tr><td>Northeast Regional          </td><td> May 15 &amp; 16</td></tr>
-<tr><td>Pittsford                   </td><td> May 29 &amp; 30</td></tr>
-<tr><td>National Learn to Row  Day  </td><td> June 5</td></tr>
-</table>
-
-<h3> Summer </h3>
-<table class="thin">
-<tr><td> Independence Day (Philly)   </td><td> July 2 -  4  </td></tr>
-<tr><td> Canadian Henley (Ontario)   </td><td> August 2 - 9 </td></tr>
-</table>
-
-<h3> Fall </h3>
-<table class="thin">
-<tr><td> Head of the Hudson    </td><td>   September 25 </td> </tr>
-<tr><td> Housatonic            </td><td>   October 9  </td> </tr>
-<tr><td> Head of the Charles   </td><td>   October 23 &amp; 24 </td> </tr>
-<tr><td> Head of the Fish      </td><td>   October 30 &amp; 31 </td> </tr>
-</table>
-
 </div>
+
+<div id="sidebar">
+<?php insert_slideshow($programs_slideshow); ?>
+</div>
+
 <? include("footer.inc"); ?>
