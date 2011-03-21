@@ -56,6 +56,9 @@ before you sign up.
 </p>
 
 <h2> Season Dates and Dues </h2>
+<p>
+<a href="dates_and_dues.php">2011 Dates and Dues</a>
+</p>
 
 <h3>Regattas &amp; Virtual Racing Account</h3>
 

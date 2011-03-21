@@ -74,6 +74,9 @@ communicator.
 </ul>
 
 <h2> Season Dates and Dues </h2>
+<p>
+<a href="dates_and_dues.php">2011 Dates and Dues</a>
+</p>
 
 <h2> Registration </h2>
 <p>
