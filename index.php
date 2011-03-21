@@ -18,6 +18,15 @@ to experienced).
 
 <h1>News</h1>
 
+<h2>Ice Breaker Challenge 5K</h2>
+
+<p>
+The <a href="ice_breaker_challenge.php">Ice Breaker Challenge 5K</a> Run will
+be this Saturday March 26, 2011 at 9am. 99.5 The River will be providing us
+music and entertainment.  Benita Zahn from News Channel 13 will be running with
+us.  There will be complimentary massages post race.  Don't miss all the fun!
+</p>
+
 <h2> 2011 Adult learn to row day</h2>
 <p>
 The <a href="adult_learn_to_row_day.php">2011 Adult learn to row day</a> will be on April 23rd.
@@ -30,13 +39,6 @@ The <a href="adult_learn_to_row_day.php">2011 Adult learn to row day</a> will be
     <param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always">
     <embed src="http://www.youtube.com/v/n0_GtHWMjoc?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="480" height="292">
 </object>
-</p>
-
-<h2>Ice Breaker Challenge 5K</h2>
-
-<p>
-Save the Date! <a href="ice_breaker_challenge.php">Ice Breaker Challenge 5K</a>
-Run will be March 26, 2011
 </p>
 
 <h2> Head of the Hudson</h2>
