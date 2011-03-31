@@ -21,10 +21,8 @@ to experienced).
 <h2>Ice Breaker Challenge 5K</h2>
 
 <p>
-The <a href="ice_breaker_challenge.php">Ice Breaker Challenge 5K</a> Run will
-be this Saturday March 26, 2011 at 9am. 99.5 The River will be providing us
-music and entertainment.  Benita Zahn from News Channel 13 will be running with
-us.  There will be complimentary massages post race.  Don't miss all the fun!
+The <a href="ice_breaker_challenge.php">Ice Breaker Challenge 5K</a> Run was
+Saturday March 26, 2011 at 9am.  See <a href="2011_ice_breaker_results.php">the results for the Ice Breaker Challenge</a>
 </p>
 
 <h2> 2011 Adult learn to row day</h2>
