@@ -1,6 +1,6 @@
 
 <? 
-$title = "Summer Camp 2010";
+$title = "Summer Camp 2011";
 include("header.inc");
 ?>
 <div id="main">
