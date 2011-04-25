@@ -16,6 +16,9 @@ The <a href="adult_learn_to_row_day.php">2011 Adult learn to row day</a> will be
 Save the Date!  <a href="ice_breaker_challenge.php">Ice Breaker Challenge 5K</a>
 Run will be March 26, 2011.
 </p>
+<p>
+<a href="2011_ice_breaker_results.php">2011 Ice Breaker Challenge results</a>
+</p>
 
 <h2> Head of the Hudson</h2>
 <p>
